@@ -104,4 +104,5 @@
 |[World Transformation Movement](https://www.facebook.com/372125409639)|173,159.00|[914](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=AU&view_all_page_id=372125409639&search_type=page&media_type=all)|World Transformation Movement|
 |[Barnardos Australia](https://www.facebook.com/117241141903)|172,188.00|[631](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=AU&view_all_page_id=117241141903&search_type=page&media_type=all)|Barnardos Australia|
 |...||||
-View all in [AU.csv)](../../../MetaData/AU.csv)
+
+View all in [AU.csv](../../MetaData/AU.csv)

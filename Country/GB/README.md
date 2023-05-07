@@ -104,4 +104,5 @@
 |[The Children's Society](https://www.facebook.com/37981137361)|248,259.00|[1902](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&view_all_page_id=37981137361&search_type=page&media_type=all)|The Children's Society|
 |[Plan International UK](https://www.facebook.com/18044497940)|243,046.00|[2684](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&view_all_page_id=18044497940&search_type=page&media_type=all)|Plan International UK|
 |...||||
-View all in [GB.csv)](../../../MetaData/GB.csv)
+
+View all in [GB.csv](../../MetaData/GB.csv)

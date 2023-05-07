@@ -42,7 +42,8 @@ namespace MetaBot.Parsers
                 readMe.AppendLine($"|...||||");
             }
 
-            readMe.AppendLine($"View all in [{countryCode}.csv)](../../../MetaData/{countryCode}.csv)");
+            readMe.AppendLine("");
+            readMe.AppendLine($"View all in [{countryCode}.csv](../../MetaData/{countryCode}.csv)");
 
             File.WriteAllText(filePath, readMe.ToString());
         }

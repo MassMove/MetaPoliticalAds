@@ -16,7 +16,7 @@ namespace MetaBot
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
 
             readMe += "|Country|Total Spent|Last Month|\r\n";
-            readMe += "|:---|---:|\r\n";
+            readMe += "|:---|---:|---:|\r\n";
 
             var campaignFileParser = new CampaignFileParser();
             var campaignSummaryWriter = new CampaignFileWriter();

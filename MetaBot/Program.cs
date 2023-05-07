@@ -12,7 +12,7 @@ namespace MetaBot
             Console.WriteLine("This is our world now");
             string readMe = "# Meta Political Ads\r\n\r\n";
             readMe += "Summary of the [Meta Political Ads Library](https://www.facebook.com/ads/library).\r\n\r\n";
-            readMe += "Source data: [/MetaData](MataData).\r\n\r\n";
+            readMe += "Source data: [/MetaData](MetaData).\r\n\r\n";
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
 
             readMe += "|Country|Spent|\r\n";

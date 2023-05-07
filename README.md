@@ -2,7 +2,7 @@
 
 Summary of the [Meta Political Ads Library](https://www.facebook.com/ads/library).
 
-Source data: [/MetaData](MataData).
+Source data: [/MetaData](MetaData).
 
 Last run: 2023-05-07.
 

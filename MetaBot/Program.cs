@@ -11,7 +11,7 @@ namespace MetaBot
         {
             Console.WriteLine("This is our world now");
             string readMe = "# Meta Political Ads\r\n\r\n";
-            readMe += "Summarizes the [Meta Political Ads Library](https://www.facebook.com/ads/library).\r\n\r\n";
+            readMe += "Summary of the [Meta Political Ads Library](https://www.facebook.com/ads/library).\r\n\r\n";
             readMe += "Source data: [/MetaData](MataData).\r\n\r\n";
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
 
@@ -41,7 +41,8 @@ namespace MetaBot
 
                 campaignSummaryWriter.Write($"{countryPath}/README.md", campaigns, countryCode, totalSpent);
 
-                readMe += $"|[{countryCode}]({countryCode})|{totalSpent}|\r\n";
+                var countryUrl = $"Country/{countryCode}/README.md";
+                readMe += $"|[{countryCode}]({countryUrl})|{totalSpent}|\r\n";
             }
 
             File.WriteAllText("../../../../README.md", readMe);

@@ -9,7 +9,7 @@ namespace MetaBot.Parsers
 {
     public sealed class CampaignFileWriter : IFileWriter<Campaign>
     {
-        public void Write(string filePath, IList<Campaign> campaigns, string countryCode, string totalSpent)
+        public void Write(string filePath, IList<Campaign> campaigns, string countryCode, string totalSpent, string csvUrlPrefix)
         {
             if (string.IsNullOrEmpty(filePath))
             {
@@ -43,7 +43,7 @@ namespace MetaBot.Parsers
             }
 
             readMe.AppendLine("");
-            readMe.AppendLine($"View all in [{countryCode}.csv](../../MetaData/{countryCode}.csv)");
+            readMe.AppendLine($"View all in [{csvUrlPrefix}/{countryCode}.csv](../../MetaData/{csvUrlPrefix}/{countryCode}.csv)");
 
             File.WriteAllText(filePath, readMe.ToString());
         }

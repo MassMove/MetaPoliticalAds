@@ -105,4 +105,4 @@
 |[BC NDP](https://www.facebook.com/195608229977)|4,866.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=AU&view_all_page_id=195608229977&search_type=page&media_type=all)|BC NDP|
 |...||||
 
-View all in [AU.csv](../../MetaData/AU.csv)
+View all in [Month/AU.csv](../../MetaData/Month/AU.csv)

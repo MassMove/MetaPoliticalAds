@@ -105,4 +105,4 @@
 |[Here For Students](https://www.facebook.com/102828041144081)|263,074.00|[463](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CA&view_all_page_id=102828041144081&search_type=page&media_type=all)|Ontario Secondary School Teachers' Federation (OSSTF)|
 |...||||
 
-View all in [CA.csv](../../MetaData/CA.csv)
+View all in [Total/CA.csv](../../MetaData/Total/CA.csv)

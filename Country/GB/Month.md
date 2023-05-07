@@ -105,4 +105,4 @@
 |[Care2 UK](https://www.facebook.com/110538548040758)|4,613.00|[17](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&view_all_page_id=110538548040758&search_type=page&media_type=all)|John Ayling & Associates|
 |...||||
 
-View all in [GB.csv](../../MetaData/GB.csv)
+View all in [Month/GB.csv](../../MetaData/Month/GB.csv)

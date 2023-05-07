@@ -105,4 +105,4 @@
 |[Smart Daily Digest](https://www.facebook.com/102310491882678)|55,642.00|[52](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&view_all_page_id=102310491882678&search_type=page&media_type=all)|Smart Daily Digest LLC|
 |...||||
 
-View all in [US.csv](../../MetaData/US.csv)
+View all in [Month/US.csv](../../MetaData/Month/US.csv)

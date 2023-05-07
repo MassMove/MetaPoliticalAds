@@ -39,14 +39,14 @@ namespace MetaBot
                 var totalSpent = $"{totalCampaigns.Sum(c => c.spent).ToString("N")} {currency}";
                 var totalUrl = $"Country/{countryCode}/Total.md";
                 Console.Write($"{totalSpent,20}");
-                campaignSummaryWriter.Write($"{countryPath}/Total.md", totalCampaigns, countryCode, totalSpent);
+                campaignSummaryWriter.Write($"{countryPath}/Total.md", totalCampaigns, countryCode, totalSpent, "Total");
 
                 var monthFileName = fileName.Replace("Total", "Month");
                 var monthCampaigns = campaignFileParser.Parse(monthFileName);
                 var monthSpent = $"{monthCampaigns.Sum(c => c.spent).ToString("N")} {currency}";
                 var monthUrl = $"Country/{countryCode}/Month.md";
                 Console.WriteLine($"{monthSpent,20}");
-                campaignSummaryWriter.Write($"{countryPath}/Month.md", monthCampaigns, countryCode, monthSpent);
+                campaignSummaryWriter.Write($"{countryPath}/Month.md", monthCampaigns, countryCode, monthSpent, "Month");
 
                 readMe += $"|{countryCode}|[{totalSpent}]({totalUrl})|[{monthSpent}]({monthUrl})|\r\n";
             }

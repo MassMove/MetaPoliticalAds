@@ -105,4 +105,4 @@
 |[Inside Amazon](https://www.facebook.com/306514249430227)|4,231,654.00|[221](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&view_all_page_id=306514249430227&search_type=page&media_type=all)|Amazon.com Services LLC|
 |...||||
 
-View all in [US.csv](../../MetaData/US.csv)
+View all in [Total/US.csv](../../MetaData/Total/US.csv)

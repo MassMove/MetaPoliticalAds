@@ -30,12 +30,19 @@ namespace MetaBot.Parsers
             readMe.AppendLine("|Page Name|Spent|Ads|Disclaimer|");
             readMe.AppendLine("|:---|---:|---:|:---|");
 
-            foreach (Campaign campaign in campaigns.Where(c => c.spent > 0))
+            foreach (Campaign campaign in campaigns.Where(c => c.spent > 0).Take(100))
             {
                 var adsUrl = $"https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country={countryCode}&view_all_page_id={campaign.pageId}&search_type=page&media_type=all";
                 var pageUrl = $"https://www.facebook.com/{campaign.pageId}";
                 readMe.Append($"|[{campaign.pageName}]({pageUrl})|{campaign.spent.ToString("N")}|[{campaign.ads}]({adsUrl})|{campaign.disclaimer}|\r\n");
             }
+
+            if (campaigns.Count > 100)
+            {
+                readMe.AppendLine($"|...||||");
+            }
+
+            readMe.AppendLine($"View all in [{countryCode}.csv)](../../../MetaData/{countryCode}.csv)");
 
             File.WriteAllText(filePath, readMe.ToString());
         }

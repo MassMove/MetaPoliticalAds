@@ -15,8 +15,8 @@ namespace MetaBot
             readMe += "Source data: [/MetaData](MetaData).\r\n\r\n";
             readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd") + ".\r\n\r\n";
 
-            readMe += "|Country|Total Spent|Last Month|\r\n";
-            readMe += "|:---|---:|---:|\r\n";
+            readMe += "|Country|Total Spent|Last Month|Currency|\r\n";
+            readMe += "|:---|---:|---:|:---|\r\n";
 
             var campaignFileParser = new CampaignFileParser();
             var campaignSummaryWriter = new CampaignFileWriter();
@@ -36,19 +36,19 @@ namespace MetaBot
 
                 var totalCampaigns = campaignFileParser.Parse(fileName);
                 var currency = campaignFileParser.GetCurrency(fileName);
-                var totalSpent = $"{totalCampaigns.Sum(c => c.spent).ToString("N")} {currency}";
+                var totalSpent = $"{totalCampaigns.Sum(c => c.spent).ToString("N")}";
                 var totalUrl = $"Country/{countryCode}/Total.md";
                 Console.Write($"{totalSpent,20}");
-                campaignSummaryWriter.Write($"{countryPath}/Total.md", totalCampaigns, countryCode, totalSpent, "Total");
+                campaignSummaryWriter.Write($"{countryPath}/Total.md", totalCampaigns, countryCode, $"{totalSpent} {currency}", "Total");
 
                 var monthFileName = fileName.Replace("Total", "Month");
                 var monthCampaigns = campaignFileParser.Parse(monthFileName);
-                var monthSpent = $"{monthCampaigns.Sum(c => c.spent).ToString("N")} {currency}";
+                var monthSpent = $"{monthCampaigns.Sum(c => c.spent).ToString("N")}";
                 var monthUrl = $"Country/{countryCode}/Month.md";
                 Console.WriteLine($"{monthSpent,20}");
-                campaignSummaryWriter.Write($"{countryPath}/Month.md", monthCampaigns, countryCode, monthSpent, "Month");
+                campaignSummaryWriter.Write($"{countryPath}/Month.md", monthCampaigns, countryCode, $"{monthSpent} {currency}", "Month");
 
-                readMe += $"|{countryCode}|[{totalSpent}]({totalUrl})|[{monthSpent}]({monthUrl})|\r\n";
+                readMe += $"|{countryCode}|[{totalSpent}]({totalUrl})|[{monthSpent}]({monthUrl})|{currency}|\r\n";
             }
 
             File.WriteAllText("../../../../README.md", readMe);

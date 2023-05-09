@@ -30,11 +30,23 @@ namespace MetaBot.Parsers
             readMe.AppendLine("|Page Name|Spent|Ads|Disclaimer|");
             readMe.AppendLine("|:---|---:|---:|:---|");
 
-            foreach (Campaign campaign in campaigns.Where(c => c.spent > 0).Take(100))
+            var top100 = campaigns.Take(100);
+
+            if (top100.Count() == 100)
+            {
+                top100 = campaigns.Where(c => c.spent > 0).Take(100);
+            }
+
+            foreach (Campaign campaign in top100)
             {
                 var adsUrl = $"https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country={countryCode}&view_all_page_id={campaign.pageId}&search_type=page&media_type=all";
                 var pageUrl = $"https://www.facebook.com/{campaign.pageId}";
-                readMe.Append($"|[{campaign.pageName}]({pageUrl})|{campaign.spent.ToString("N")}|[{campaign.ads}]({adsUrl})|{campaign.disclaimer}|\r\n");
+                var spent = campaign.spent.ToString("N");
+                if (campaign.spent == 99)
+                {
+                    spent = "≤100";
+                }
+                readMe.Append($"|[{campaign.pageName}]({pageUrl})|{spent}|[{campaign.ads}]({adsUrl})|{campaign.disclaimer}|\r\n");
             }
 
             if (campaigns.Count > 100)

@@ -61,6 +61,10 @@ namespace MetaBot.Parsers
 
             long spent;
             long.TryParse(fields[3], out spent);
+            if (spent == 0 && fields[3].Contains("100"))
+            {
+                spent = 99;
+            }
             campaign.spent = spent;
 
             int ads;

@@ -1,5 +1,5 @@
 ## RS
-**Total spent**: 2,185,078.00 EUR
+**Total spent**: 2,178,488.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

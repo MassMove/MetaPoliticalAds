@@ -1,5 +1,5 @@
 ## KE
-**Total spent**: 14,747,797.00 KES
+**Total spent**: 14,743,544.00 KES
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

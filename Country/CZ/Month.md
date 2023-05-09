@@ -1,5 +1,5 @@
 ## CZ
-**Total spent**: 2,317,553.00 CZK
+**Total spent**: 2,317,102.00 CZK
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

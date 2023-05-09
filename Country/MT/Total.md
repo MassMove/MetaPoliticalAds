@@ -1,5 +1,5 @@
 ## MT
-**Total spent**: 2,013,216.00 EUR
+**Total spent**: 2,006,011.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

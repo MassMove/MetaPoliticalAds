@@ -1,5 +1,5 @@
 ## KG
-**Total spent**: 626,838.00 USD
+**Total spent**: 622,756.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

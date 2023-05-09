@@ -1,5 +1,5 @@
 ## TN
-**Total spent**: 513,417.00 TND
+**Total spent**: 510,240.00 TND
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

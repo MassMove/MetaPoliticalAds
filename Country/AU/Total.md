@@ -1,5 +1,5 @@
 ## AU
-**Total spent**: 97,280,974.00 AUD
+**Total spent**: 97,263,338.00 AUD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

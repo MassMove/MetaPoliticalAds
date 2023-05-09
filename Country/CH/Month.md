@@ -1,5 +1,5 @@
 ## CH
-**Total spent**: 202,661.00 CHF
+**Total spent**: 202,097.00 CHF
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -99,10 +99,10 @@
 |[EVP Frauenfeld](https://www.facebook.com/223727604375090)|105.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=223727604375090&search_type=page&media_type=all)|EVP Frauenfeld|
 |[Stop al blackout](https://www.facebook.com/100116156110843)|103.00|[16](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=100116156110843&search_type=page&media_type=all)|Iniziativa popolare «Energia elettrica in ogni tempo per tutti (Stop al blackout)»|
 |[Grünes Bündnis Stadt Bern](https://www.facebook.com/138011779601470)|101.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=138011779601470&search_type=page&media_type=all)|Grünes Bündnis Bern (GB)|
-|[Gewerkschaftsbund Schaffhausen GBS](https://www.facebook.com/168761183826173)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=168761183826173&search_type=page&media_type=all)|Gewerkschaftsbund Schaffhausen GBS|
-|[Thomas Matter](https://www.facebook.com/259871484198551)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=259871484198551&search_type=page&media_type=all)|Thomas Matter|
-|[Grüne Schweiz](https://www.facebook.com/194790813901953)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=194790813901953&search_type=page&media_type=all)|Grüne Schweiz|
-|[Les Vert•e•s Valais - Grüne Wallis](https://www.facebook.com/120307884715130)|100.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=120307884715130&search_type=page&media_type=all)|Les Vert•e•s Valais - Grüne Wallis|
+|[Gewerkschaftsbund Schaffhausen GBS](https://www.facebook.com/168761183826173)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=168761183826173&search_type=page&media_type=all)|Gewerkschaftsbund Schaffhausen GBS|
+|[Thomas Matter](https://www.facebook.com/259871484198551)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=259871484198551&search_type=page&media_type=all)|Thomas Matter|
+|[Grüne Schweiz](https://www.facebook.com/194790813901953)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=194790813901953&search_type=page&media_type=all)|Grüne Schweiz|
+|[Les Vert•e•s Valais - Grüne Wallis](https://www.facebook.com/120307884715130)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=CH&view_all_page_id=120307884715130&search_type=page&media_type=all)|Les Vert•e•s Valais - Grüne Wallis|
 |...||||
 
 View all in [Month/CH.csv](../../MetaData/Month/CH.csv)

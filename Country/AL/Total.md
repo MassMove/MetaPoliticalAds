@@ -1,5 +1,5 @@
 ## AL
-**Total spent**: 1,007,150.00 USD
+**Total spent**: 1,002,365.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

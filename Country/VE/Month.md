@@ -1,5 +1,5 @@
 ## VE
-**Total spent**: 1,029,316,038.00 VEF
+**Total spent**: 1,029,315,853.00 VEF
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

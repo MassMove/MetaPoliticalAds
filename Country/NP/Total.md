@@ -1,5 +1,5 @@
 ## NP
-**Total spent**: 432,733.00 USD
+**Total spent**: 429,879.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

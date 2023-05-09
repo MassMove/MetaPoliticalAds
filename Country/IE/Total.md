@@ -1,5 +1,5 @@
 ## IE
-**Total spent**: 7,184,826.00 EUR
+**Total spent**: 7,171,449.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## PH
-**Total spent**: 674,375,801.00 PHP
+**Total spent**: 674,366,911.00 PHP
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

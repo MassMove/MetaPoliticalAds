@@ -1,5 +1,5 @@
 ## HT
-**Total spent**: 489,290.00 HTG
+**Total spent**: 488,097.00 HTG
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

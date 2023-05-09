@@ -1,5 +1,5 @@
 ## CY
-**Total spent**: 2,062,723.00 EUR
+**Total spent**: 2,055,690.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

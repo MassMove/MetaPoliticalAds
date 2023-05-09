@@ -1,5 +1,5 @@
 ## GH
-**Total spent**: 1,002,936.00 USD
+**Total spent**: 996,793.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

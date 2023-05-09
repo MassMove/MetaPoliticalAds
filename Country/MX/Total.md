@@ -1,5 +1,5 @@
 ## MX
-**Total spent**: 1,081,108,197.00 MXN
+**Total spent**: 1,081,081,057.00 MXN
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

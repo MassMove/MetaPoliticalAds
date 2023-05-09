@@ -1,5 +1,5 @@
 ## CH
-**Total spent**: 2,741,362.00 CHF
+**Total spent**: 2,737,363.00 CHF
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

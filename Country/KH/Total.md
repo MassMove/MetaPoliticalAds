@@ -1,5 +1,5 @@
 ## KH
-**Total spent**: 371,473.00 USD
+**Total spent**: 369,450.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -101,8 +101,8 @@
 |[H.E Dr Men Ra](https://www.facebook.com/102298626034301)|104.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=102298626034301&search_type=page&media_type=all)|Men Ra|
 |[Swift News](https://www.facebook.com/101116798497599)|101.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=101116798497599&search_type=page&media_type=all)|Swift News|
 |[Leng Navatra   ឡេង ណាវ៉ាត្រា](https://www.facebook.com/611176288894923)|101.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=611176288894923&search_type=page&media_type=all)|Pekpenh Somalina|
-|[Khmer-Korean Interpreter/Translator 캄한 통번역사](https://www.facebook.com/103056885764876)|100.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=103056885764876&search_type=page&media_type=all)|Panha Pheartarakyuth|
-|[Mattrid Beer Cambodia](https://www.facebook.com/110266503959564)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=110266503959564&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Khmer-Korean Interpreter/Translator 캄한 통번역사](https://www.facebook.com/103056885764876)|≤100|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=103056885764876&search_type=page&media_type=all)|Panha Pheartarakyuth|
+|[Mattrid Beer Cambodia](https://www.facebook.com/110266503959564)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KH&view_all_page_id=110266503959564&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Total/KH.csv](../../MetaData/Total/KH.csv)

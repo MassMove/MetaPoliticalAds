@@ -1,5 +1,5 @@
 ## GB
-**Total spent**: 144,316,847.00 GBP
+**Total spent**: 144,260,605.00 GBP
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## HU
-**Total spent**: 9,257,904,560.00 HUF
+**Total spent**: 9,257,898,267.00 HUF
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## CG
-**Total spent**: 2,135,923.00 XAF
+**Total spent**: 2,134,263.00 XAF
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

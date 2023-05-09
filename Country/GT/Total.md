@@ -1,5 +1,5 @@
 ## GT
-**Total spent**: 3,596,745.00 GTQ
+**Total spent**: 3,594,604.00 GTQ
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

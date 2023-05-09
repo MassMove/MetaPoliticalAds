@@ -1,5 +1,5 @@
 ## JM
-**Total spent**: 810,628.00 JMD
+**Total spent**: 809,639.00 JMD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

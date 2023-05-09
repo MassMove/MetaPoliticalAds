@@ -1,5 +1,5 @@
 ## US
-**Total spent**: 33,236,027.00 USD
+**Total spent**: 33,227,276.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

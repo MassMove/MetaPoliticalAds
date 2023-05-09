@@ -1,5 +1,5 @@
 ## AE
-**Total spent**: 513,108.00 AED
+**Total spent**: 510,370.00 AED
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## AO
-**Total spent**: 6,105,963.00 AOA
+**Total spent**: 6,104,465.00 AOA
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## KE
-**Total spent**: 351,615.00 KES
+**Total spent**: 351,320.00 KES
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -96,13 +96,13 @@
 |[Cate Gitau](https://www.facebook.com/100573062970407)|102.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=100573062970407&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Alan Masakhalia - MP Dagoretti North Constituency 2027](https://www.facebook.com/107689448906978)|101.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=107689448906978&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[U.S. Mission Vienna](https://www.facebook.com/56632622313)|101.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=56632622313&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Like Really?](https://www.facebook.com/887289491336788)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=887289491336788&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Abdourazak Ali](https://www.facebook.com/102910055927997)|100.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=102910055927997&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[ICMM](https://www.facebook.com/428157337550611)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=428157337550611&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[IZZY - Stream Israel](https://www.facebook.com/105962808801596)|100.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=105962808801596&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Abdelkhadar Curaarte](https://www.facebook.com/107180652225807)|100.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=107180652225807&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Big Pink Youth Dialogue](https://www.facebook.com/117039841320523)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=117039841320523&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Weregreenly- Magazine](https://www.facebook.com/100374392742057)|100.00|[60](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=100374392742057&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Like Really?](https://www.facebook.com/887289491336788)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=887289491336788&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Abdourazak Ali](https://www.facebook.com/102910055927997)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=102910055927997&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[ICMM](https://www.facebook.com/428157337550611)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=428157337550611&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[IZZY - Stream Israel](https://www.facebook.com/105962808801596)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=105962808801596&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Abdelkhadar Curaarte](https://www.facebook.com/107180652225807)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=107180652225807&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Big Pink Youth Dialogue](https://www.facebook.com/117039841320523)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=117039841320523&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Weregreenly- Magazine](https://www.facebook.com/100374392742057)|≤100|[60](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KE&view_all_page_id=100374392742057&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Month/KE.csv](../../MetaData/Month/KE.csv)

@@ -1,5 +1,5 @@
 ## BE
-**Total spent**: 766,767.00 EUR
+**Total spent**: 765,806.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## PY
-**Total spent**: 2,313,261,940.00 PYG
+**Total spent**: 2,313,261,728.00 PYG
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

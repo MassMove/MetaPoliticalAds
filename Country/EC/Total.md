@@ -1,5 +1,5 @@
 ## EC
-**Total spent**: 6,710,311.00 USD
+**Total spent**: 6,699,078.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

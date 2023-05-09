@@ -1,5 +1,5 @@
 ## IN
-**Total spent**: 77,332,237.00 INR
+**Total spent**: 77,330,042.00 INR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

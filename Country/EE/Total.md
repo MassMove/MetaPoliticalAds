@@ -1,5 +1,5 @@
 ## EE
-**Total spent**: 2,447,654.00 EUR
+**Total spent**: 2,439,409.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

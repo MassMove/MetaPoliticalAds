@@ -1,5 +1,5 @@
 ## LT
-**Total spent**: 3,198,733.00 EUR
+**Total spent**: 3,188,480.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

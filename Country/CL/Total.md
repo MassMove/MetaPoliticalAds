@@ -1,5 +1,5 @@
 ## CL
-**Total spent**: 9,374,682,527.00 CLP
+**Total spent**: 9,374,677,245.00 CLP
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

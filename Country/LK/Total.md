@@ -1,5 +1,5 @@
 ## LK
-**Total spent**: 1,519,884.00 USD
+**Total spent**: 1,511,650.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

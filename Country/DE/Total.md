@@ -1,5 +1,5 @@
 ## DE
-**Total spent**: 102,238,358.00 EUR
+**Total spent**: 102,190,096.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

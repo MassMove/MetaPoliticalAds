@@ -1,5 +1,5 @@
 ## TH
-**Total spent**: 19,125,457.00 THB
+**Total spent**: 19,124,930.00 THB
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

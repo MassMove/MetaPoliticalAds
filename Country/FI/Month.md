@@ -1,5 +1,5 @@
 ## FI
-**Total spent**: 184,791.00 EUR
+**Total spent**: 184,202.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

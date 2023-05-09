@@ -1,5 +1,5 @@
 ## PT
-**Total spent**: 5,122,657.00 EUR
+**Total spent**: 5,105,149.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

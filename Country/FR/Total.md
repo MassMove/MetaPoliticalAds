@@ -1,5 +1,5 @@
 ## FR
-**Total spent**: 48,795,087.00 EUR
+**Total spent**: 48,755,242.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

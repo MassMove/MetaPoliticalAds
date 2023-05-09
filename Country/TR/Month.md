@@ -1,5 +1,5 @@
 ## TR
-**Total spent**: 19,907,633.00 TRY
+**Total spent**: 19,906,670.00 TRY
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

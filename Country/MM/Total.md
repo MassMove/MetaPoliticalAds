@@ -1,5 +1,5 @@
 ## MM
-**Total spent**: 1,082,826.00 USD
+**Total spent**: 1,075,587.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

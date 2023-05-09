@@ -1,5 +1,5 @@
 ## TW
-**Total spent**: 9,052,234.00 TWD
+**Total spent**: 9,051,908.00 TWD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

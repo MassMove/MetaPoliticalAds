@@ -1,5 +1,5 @@
 ## IL
-**Total spent**: 2,555,153.00 ILS
+**Total spent**: 2,554,669.00 ILS
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

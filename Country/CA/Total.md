@@ -1,5 +1,5 @@
 ## CA
-**Total spent**: 157,821,723.00 CAD
+**Total spent**: 157,785,413.00 CAD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

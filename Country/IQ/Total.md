@@ -1,5 +1,5 @@
 ## IQ
-**Total spent**: 2,892,462.00 USD
+**Total spent**: 2,879,822.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

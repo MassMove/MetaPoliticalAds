@@ -1,5 +1,5 @@
 ## SE
-**Total spent**: 597,606,891.00 SEK
+**Total spent**: 597,593,454.00 SEK
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

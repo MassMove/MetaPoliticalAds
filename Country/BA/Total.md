@@ -1,5 +1,5 @@
 ## BA
-**Total spent**: 1,005,681.00 BAM
+**Total spent**: 1,002,659.00 BAM
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

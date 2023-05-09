@@ -1,5 +1,5 @@
 ## PE
-**Total spent**: 20,805,901.00 PEN
+**Total spent**: 20,794,252.00 PEN
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## BO
-**Total spent**: 9,108,063.00 BOB
+**Total spent**: 9,100,933.00 BOB
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

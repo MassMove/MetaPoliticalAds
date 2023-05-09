@@ -1,5 +1,5 @@
 ## GE
-**Total spent**: 3,413,910.00 USD
+**Total spent**: 3,408,358.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

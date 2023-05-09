@@ -1,5 +1,5 @@
 ## LV
-**Total spent**: 1,976,444.00 EUR
+**Total spent**: 1,967,391.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

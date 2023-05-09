@@ -1,5 +1,5 @@
 ## PL
-**Total spent**: 74,357,659.00 PLN
+**Total spent**: 74,334,273.00 PLN
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

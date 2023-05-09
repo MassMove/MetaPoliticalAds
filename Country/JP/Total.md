@@ -1,5 +1,5 @@
 ## JP
-**Total spent**: 1,070,070,600.00 JPY
+**Total spent**: 1,070,066,199.00 JPY
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

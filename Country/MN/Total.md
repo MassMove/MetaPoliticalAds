@@ -1,5 +1,5 @@
 ## MN
-**Total spent**: 722,255.00 USD
+**Total spent**: 717,639.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

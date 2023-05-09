@@ -1,5 +1,5 @@
 ## CR
-**Total spent**: 17,974,613.00 CRC
+**Total spent**: 17,973,068.00 CRC
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## BR
-**Total spent**: 517,832,513.00 BRL
+**Total spent**: 517,749,732.00 BRL
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

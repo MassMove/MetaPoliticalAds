@@ -1,5 +1,5 @@
 ## VN
-**Total spent**: 4,487,786,687.00 VND
+**Total spent**: 4,487,785,454.00 VND
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

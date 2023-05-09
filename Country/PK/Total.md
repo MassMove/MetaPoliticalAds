@@ -1,5 +1,5 @@
 ## PK
-**Total spent**: 47,021,322.00 PKR
+**Total spent**: 47,019,143.00 PKR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

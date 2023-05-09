@@ -1,5 +1,5 @@
 ## LB
-**Total spent**: 178,460,604.00 LBP
+**Total spent**: 178,460,386.00 LBP
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

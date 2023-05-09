@@ -1,5 +1,5 @@
 ## ES
-**Total spent**: 702,808.00 EUR
+**Total spent**: 701,080.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

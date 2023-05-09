@@ -1,5 +1,5 @@
 ## BD
-**Total spent**: 549,468.00 USD
+**Total spent**: 545,734.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

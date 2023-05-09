@@ -1,5 +1,5 @@
 ## MY
-**Total spent**: 420,576.00 MYR
+**Total spent**: 420,123.00 MYR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

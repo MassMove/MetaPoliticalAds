@@ -1,5 +1,5 @@
 ## NI
-**Total spent**: 521,428.00 NIO
+**Total spent**: 519,768.00 NIO
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

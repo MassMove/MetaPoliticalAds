@@ -1,5 +1,5 @@
 ## BG
-**Total spent**: 5,240,313.00 EUR
+**Total spent**: 5,229,262.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

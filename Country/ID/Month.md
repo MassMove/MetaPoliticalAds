@@ -1,5 +1,5 @@
 ## ID
-**Total spent**: 2,363,829,233.00 IDR
+**Total spent**: 2,363,828,920.00 IDR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

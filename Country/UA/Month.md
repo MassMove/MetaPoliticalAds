@@ -1,5 +1,5 @@
 ## UA
-**Total spent**: 149,008.00 USD
+**Total spent**: 148,303.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

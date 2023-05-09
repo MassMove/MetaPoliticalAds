@@ -1,5 +1,5 @@
 ## EG
-**Total spent**: 6,602,634.00 EGP
+**Total spent**: 6,599,872.00 EGP
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

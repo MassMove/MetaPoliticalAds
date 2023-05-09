@@ -1,5 +1,5 @@
 ## ZA
-**Total spent**: 22,642,595.00 ZAR
+**Total spent**: 22,637,361.00 ZAR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

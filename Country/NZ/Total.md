@@ -1,5 +1,5 @@
 ## NZ
-**Total spent**: 10,306,450.00 NZD
+**Total spent**: 10,299,048.00 NZD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

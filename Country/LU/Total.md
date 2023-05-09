@@ -1,5 +1,5 @@
 ## LU
-**Total spent**: 1,513,925.00 EUR
+**Total spent**: 1,506,043.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## IS
-**Total spent**: 124,596,138.00 ISK
+**Total spent**: 124,592,688.00 ISK
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

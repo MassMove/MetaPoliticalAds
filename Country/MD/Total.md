@@ -1,5 +1,5 @@
 ## MD
-**Total spent**: 1,199,525.00 EUR
+**Total spent**: 1,193,928.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

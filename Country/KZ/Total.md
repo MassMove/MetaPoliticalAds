@@ -1,5 +1,5 @@
 ## KZ
-**Total spent**: 747,873.00 USD
+**Total spent**: 745,006.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

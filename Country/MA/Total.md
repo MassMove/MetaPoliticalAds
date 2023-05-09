@@ -1,5 +1,5 @@
 ## MA
-**Total spent**: 2,187,300.00 USD
+**Total spent**: 2,179,104.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

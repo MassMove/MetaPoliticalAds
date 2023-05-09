@@ -1,5 +1,5 @@
 ## NG
-**Total spent**: 3,317,075.00 NGN
+**Total spent**: 3,316,777.00 NGN
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## AR
-**Total spent**: 2,960,432,840.00 ARS
+**Total spent**: 2,960,423,105.00 ARS
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

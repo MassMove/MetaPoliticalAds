@@ -1,5 +1,5 @@
 ## SG
-**Total spent**: 4,396,179.00 SGD
+**Total spent**: 4,389,303.00 SGD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

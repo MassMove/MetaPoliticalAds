@@ -1,5 +1,5 @@
 ## NO
-**Total spent**: 1,855,310.00 NOK
+**Total spent**: 1,854,907.00 NOK
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

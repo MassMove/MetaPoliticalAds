@@ -1,5 +1,5 @@
 ## CO
-**Total spent**: 26,357,855,728.00 COP
+**Total spent**: 26,357,851,906.00 COP
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

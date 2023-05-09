@@ -1,5 +1,5 @@
 ## DK
-**Total spent**: 239,573,957.00 DKK
+**Total spent**: 239,561,587.00 DKK
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

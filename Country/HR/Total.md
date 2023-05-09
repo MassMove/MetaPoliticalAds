@@ -1,5 +1,5 @@
 ## HR
-**Total spent**: 3,674,215.00 EUR
+**Total spent**: 3,663,417.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

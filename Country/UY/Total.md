@@ -1,5 +1,5 @@
 ## UY
-**Total spent**: 10,023,831.00 UYU
+**Total spent**: 10,019,433.00 UYU
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

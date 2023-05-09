@@ -1,5 +1,5 @@
 ## MK
-**Total spent**: 1,079,430.00 EUR
+**Total spent**: 1,073,719.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## SK
-**Total spent**: 7,378,944.00 EUR
+**Total spent**: 7,367,259.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

@@ -1,5 +1,5 @@
 ## PE
-**Total spent**: 268,382.00 PEN
+**Total spent**: 267,794.00 PEN
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -99,10 +99,10 @@
 |[Asociación por más y mejores pensiones](https://www.facebook.com/116918291306306)|104.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=116918291306306&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[veganearthdaymarch](https://www.facebook.com/112074148531279)|104.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=112074148531279&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Gabriel Antonio Madrid Orue](https://www.facebook.com/1729728707258166)|104.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=1729728707258166&search_type=page&media_type=all)|Gabriel Antonio Madrid Orue|
-|[Iván Hernández](https://www.facebook.com/143175009597452)|100.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=143175009597452&search_type=page&media_type=all)|Iván Segundino Hernández Carrasco|
-|[Jason Colonio](https://www.facebook.com/1612843852277789)|100.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=1612843852277789&search_type=page&media_type=all)|Jason Colonio|
-|[Vive Arequipa](https://www.facebook.com/1756025014619577)|100.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=1756025014619577&search_type=page&media_type=all)|Vive Arequipa|
-|[La Exclusiva - Noticia](https://www.facebook.com/103618639057976)|100.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=103618639057976&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Iván Hernández](https://www.facebook.com/143175009597452)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=143175009597452&search_type=page&media_type=all)|Iván Segundino Hernández Carrasco|
+|[Jason Colonio](https://www.facebook.com/1612843852277789)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=1612843852277789&search_type=page&media_type=all)|Jason Colonio|
+|[Vive Arequipa](https://www.facebook.com/1756025014619577)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=1756025014619577&search_type=page&media_type=all)|Vive Arequipa|
+|[La Exclusiva - Noticia](https://www.facebook.com/103618639057976)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PE&view_all_page_id=103618639057976&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Month/PE.csv](../../MetaData/Month/PE.csv)

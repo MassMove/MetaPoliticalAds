@@ -1,5 +1,5 @@
 ## RO
-**Total spent**: 72,579,514.00 RON
+**Total spent**: 72,564,475.00 RON
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

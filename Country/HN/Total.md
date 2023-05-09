@@ -1,5 +1,5 @@
 ## HN
-**Total spent**: 15,231,663.00 HNL
+**Total spent**: 15,227,661.00 HNL
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

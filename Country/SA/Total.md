@@ -1,5 +1,5 @@
 ## SA
-**Total spent**: 666,887.00 SAR
+**Total spent**: 664,159.00 SAR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

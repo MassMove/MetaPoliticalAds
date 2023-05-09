@@ -1,5 +1,5 @@
 ## NL
-**Total spent**: 622,967.00 EUR
+**Total spent**: 622,094.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

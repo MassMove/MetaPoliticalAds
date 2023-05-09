@@ -1,5 +1,5 @@
 ## GR
-**Total spent**: 574,260.00 EUR
+**Total spent**: 573,058.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

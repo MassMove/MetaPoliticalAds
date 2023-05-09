@@ -1,5 +1,5 @@
 ## CI
-**Total spent**: 717,423.00 USD
+**Total spent**: 711,615.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|

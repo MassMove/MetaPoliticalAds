@@ -1,4 +1,6 @@
-## TH
+## TH - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 34,129,910.00 THB
 
 |Page Name|Spent|Ads|Disclaimer|

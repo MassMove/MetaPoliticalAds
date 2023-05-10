@@ -1,4 +1,6 @@
-## UY
+## UY - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 242,098.00 UYU
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## VN
+## VN - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 775,697,789.00 VND
 
 |Page Name|Spent|Ads|Disclaimer|

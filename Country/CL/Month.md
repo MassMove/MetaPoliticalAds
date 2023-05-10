@@ -1,4 +1,6 @@
-## CL
+## CL - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 579,821,657.00 CLP
 
 |Page Name|Spent|Ads|Disclaimer|

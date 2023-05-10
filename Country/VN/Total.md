@@ -1,4 +1,6 @@
-## VN
+## VN - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 4,487,785,454.00 VND
 
 |Page Name|Spent|Ads|Disclaimer|

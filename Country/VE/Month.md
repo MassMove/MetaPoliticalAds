@@ -1,4 +1,6 @@
-## VE
+## VE - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 1,029,315,853.00 VEF
 
 |Page Name|Spent|Ads|Disclaimer|

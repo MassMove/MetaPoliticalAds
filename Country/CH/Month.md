@@ -1,4 +1,6 @@
-## CH
+## CH - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 202,097.00 CHF
 
 |Page Name|Spent|Ads|Disclaimer|

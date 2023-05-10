@@ -1,4 +1,6 @@
-## NZ
+## NZ - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 10,299,048.00 NZD
 
 |Page Name|Spent|Ads|Disclaimer|

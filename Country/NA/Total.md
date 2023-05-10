@@ -1,4 +1,6 @@
-## NA
+## NA - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 125,449.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

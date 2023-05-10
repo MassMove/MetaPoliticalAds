@@ -1,4 +1,6 @@
-## GT
+## GT - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 3,594,604.00 GTQ
 
 |Page Name|Spent|Ads|Disclaimer|

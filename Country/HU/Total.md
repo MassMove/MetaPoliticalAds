@@ -1,4 +1,6 @@
-## HU
+## HU - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 9,257,898,267.00 HUF
 
 |Page Name|Spent|Ads|Disclaimer|

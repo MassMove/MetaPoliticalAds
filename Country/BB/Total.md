@@ -1,4 +1,6 @@
-## BB
+## BB - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 82,453.00 BBD
 
 |Page Name|Spent|Ads|Disclaimer|

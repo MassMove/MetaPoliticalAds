@@ -1,4 +1,6 @@
-## CO
+## CO - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 544,461,871.00 COP
 
 |Page Name|Spent|Ads|Disclaimer|

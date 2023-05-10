@@ -1,4 +1,6 @@
-## CG
+## CG - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 2,134,263.00 XAF
 
 |Page Name|Spent|Ads|Disclaimer|

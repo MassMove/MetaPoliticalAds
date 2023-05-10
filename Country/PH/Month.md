@@ -1,4 +1,6 @@
-## PH
+## PH - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 4,832,911.00 PHP
 
 |Page Name|Spent|Ads|Disclaimer|

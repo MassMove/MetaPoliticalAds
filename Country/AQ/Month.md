@@ -1,4 +1,6 @@
-## AQ
+## AQ - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 2,079.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

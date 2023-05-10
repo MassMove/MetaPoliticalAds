@@ -1,4 +1,6 @@
-## DE
+## DE - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 102,190,096.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## ER
+## ER - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 46,728.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

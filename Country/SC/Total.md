@@ -1,4 +1,6 @@
-## SC
+## SC - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 293,368.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

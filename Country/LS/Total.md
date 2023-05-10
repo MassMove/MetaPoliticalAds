@@ -1,4 +1,6 @@
-## LS
+## LS - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 176,488.00 LSL
 
 |Page Name|Spent|Ads|Disclaimer|

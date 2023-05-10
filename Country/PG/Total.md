@@ -1,4 +1,6 @@
-## PG
+## PG - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 203,960.00 PGK
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## DK
+## DK - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 3,131,491.00 DKK
 
 |Page Name|Spent|Ads|Disclaimer|

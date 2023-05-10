@@ -1,4 +1,6 @@
-## IL
+## IL - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 2,554,669.00 ILS
 
 |Page Name|Spent|Ads|Disclaimer|

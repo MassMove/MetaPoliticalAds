@@ -1,4 +1,6 @@
-## GD
+## GD - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 84,925.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

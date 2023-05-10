@@ -1,4 +1,6 @@
-## SG
+## SG - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 4,389,303.00 SGD
 
 |Page Name|Spent|Ads|Disclaimer|

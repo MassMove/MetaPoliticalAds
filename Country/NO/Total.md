@@ -1,4 +1,6 @@
-## NO
+## NO - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 56,063,750.00 NOK
 
 |Page Name|Spent|Ads|Disclaimer|

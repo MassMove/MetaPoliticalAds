@@ -1,4 +1,6 @@
-## TW
+## TW - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 9,051,908.00 TWD
 
 |Page Name|Spent|Ads|Disclaimer|

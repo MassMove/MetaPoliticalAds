@@ -1,4 +1,6 @@
-## IS
+## IS - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 124,592,688.00 ISK
 
 |Page Name|Spent|Ads|Disclaimer|

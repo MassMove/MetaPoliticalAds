@@ -1,4 +1,6 @@
-## DK
+## DK - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 239,561,587.00 DKK
 
 |Page Name|Spent|Ads|Disclaimer|

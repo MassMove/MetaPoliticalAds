@@ -1,4 +1,6 @@
-## RO
+## RO - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 72,564,475.00 RON
 
 |Page Name|Spent|Ads|Disclaimer|

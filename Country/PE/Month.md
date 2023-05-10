@@ -1,4 +1,6 @@
-## PE
+## PE - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 267,794.00 PEN
 
 |Page Name|Spent|Ads|Disclaimer|

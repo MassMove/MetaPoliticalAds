@@ -1,4 +1,6 @@
-## QA
+## QA - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 34,066.00 QAR
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## KE
+## KE - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 14,743,544.00 KES
 
 |Page Name|Spent|Ads|Disclaimer|

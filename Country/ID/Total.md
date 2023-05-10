@@ -1,4 +1,6 @@
-## ID
+## ID - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 48,219,915,703.00 IDR
 
 |Page Name|Spent|Ads|Disclaimer|

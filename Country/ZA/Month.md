@@ -1,4 +1,6 @@
-## ZA
+## ZA - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 525,044.00 ZAR
 
 |Page Name|Spent|Ads|Disclaimer|

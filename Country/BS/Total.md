@@ -1,4 +1,6 @@
-## BS
+## BS - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 182,026.00 BSD
 
 |Page Name|Spent|Ads|Disclaimer|

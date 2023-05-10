@@ -1,4 +1,6 @@
-## MC
+## MC - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 9,108.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|

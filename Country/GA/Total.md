@@ -1,4 +1,6 @@
-## GA
+## GA - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 125,186.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

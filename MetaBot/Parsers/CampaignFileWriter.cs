@@ -9,7 +9,7 @@ namespace MetaBot.Parsers
 {
     public sealed class CampaignFileWriter : IFileWriter<Campaign>
     {
-        public void Write(string filePath, IList<Campaign> campaigns, string countryCode, string totalSpent, string csvUrlPrefix)
+        public void Write(string filePath, IList<Campaign> campaigns, string countryCode, string totalSpent, string csvUrlPrefix, string title, string lastRun)
         {
             if (string.IsNullOrEmpty(filePath))
             {
@@ -23,7 +23,9 @@ namespace MetaBot.Parsers
 
             var readMe = new StringBuilder();
 
-            readMe.AppendLine($"## {countryCode}");
+            readMe.AppendLine($"## {countryCode} - {title}");
+            readMe.AppendLine($"**As at**: {lastRun}");
+            readMe.AppendLine("");
             readMe.AppendLine($"**Total spent**: {totalSpent}");
             readMe.AppendLine("");
 

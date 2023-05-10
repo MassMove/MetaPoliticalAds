@@ -1,4 +1,6 @@
-## CG
+## CG - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 316,707.00 XAF
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## SG
+## SG - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 78,914.00 SGD
 
 |Page Name|Spent|Ads|Disclaimer|

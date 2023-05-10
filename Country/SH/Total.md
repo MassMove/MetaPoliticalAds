@@ -1,4 +1,6 @@
-## SH
+## SH - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 40,194.00 GBP
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## BR
+## BR - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 8,336,177.00 BRL
 
 |Page Name|Spent|Ads|Disclaimer|

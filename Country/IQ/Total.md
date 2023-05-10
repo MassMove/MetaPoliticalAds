@@ -1,4 +1,6 @@
-## IQ
+## IQ - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 2,879,822.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## KY
+## KY - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 171,806.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

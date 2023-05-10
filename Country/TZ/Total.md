@@ -1,4 +1,6 @@
-## TZ
+## TZ - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 634,822.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

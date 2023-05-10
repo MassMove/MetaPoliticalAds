@@ -1,4 +1,6 @@
-## LK
+## LK - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 1,511,650.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

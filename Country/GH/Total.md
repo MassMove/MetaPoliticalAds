@@ -1,4 +1,6 @@
-## GH
+## GH - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 996,793.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## KE
+## KE - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 351,320.00 KES
 
 |Page Name|Spent|Ads|Disclaimer|

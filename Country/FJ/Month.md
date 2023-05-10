@@ -1,4 +1,6 @@
-## FJ
+## FJ - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 17,994.00 FJD
 
 |Page Name|Spent|Ads|Disclaimer|

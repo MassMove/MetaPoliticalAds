@@ -1,4 +1,6 @@
-## CO
+## CO - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 26,357,851,906.00 COP
 
 |Page Name|Spent|Ads|Disclaimer|

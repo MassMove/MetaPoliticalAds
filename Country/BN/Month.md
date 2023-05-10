@@ -1,4 +1,6 @@
-## BN
+## BN - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 13,177.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

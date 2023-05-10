@@ -1,4 +1,6 @@
-## AE
+## AE - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 89,273.00 AED
 
 |Page Name|Spent|Ads|Disclaimer|

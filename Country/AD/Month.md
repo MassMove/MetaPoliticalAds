@@ -1,4 +1,6 @@
-## AD
+## AD - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 12,375.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## HU
+## HU - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 104,910,652.00 HUF
 
 |Page Name|Spent|Ads|Disclaimer|

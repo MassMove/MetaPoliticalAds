@@ -1,4 +1,6 @@
-## ID
+## ID - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 2,363,828,920.00 IDR
 
 |Page Name|Spent|Ads|Disclaimer|

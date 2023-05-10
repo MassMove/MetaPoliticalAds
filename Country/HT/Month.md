@@ -1,4 +1,6 @@
-## HT
+## HT - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 36,943.00 HTG
 
 |Page Name|Spent|Ads|Disclaimer|

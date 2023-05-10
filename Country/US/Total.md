@@ -1,4 +1,6 @@
-## US
+## US - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 3,891,353,337.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

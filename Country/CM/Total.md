@@ -1,4 +1,6 @@
-## CM
+## CM - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 176,144.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

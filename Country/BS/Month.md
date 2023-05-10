@@ -1,4 +1,6 @@
-## BS
+## BS - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 20,444.00 BSD
 
 |Page Name|Spent|Ads|Disclaimer|

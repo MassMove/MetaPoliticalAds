@@ -1,4 +1,6 @@
-## NZ
+## NZ - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 415,603.00 NZD
 
 |Page Name|Spent|Ads|Disclaimer|

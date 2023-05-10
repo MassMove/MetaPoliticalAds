@@ -1,4 +1,6 @@
-## BW
+## BW - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 21,429.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

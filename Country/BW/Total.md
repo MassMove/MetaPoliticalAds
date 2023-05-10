@@ -1,4 +1,6 @@
-## BW
+## BW - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 135,689.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

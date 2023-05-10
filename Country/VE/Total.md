@@ -1,4 +1,6 @@
-## VE
+## VE - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 20,559,892,103.00 VEF
 
 |Page Name|Spent|Ads|Disclaimer|

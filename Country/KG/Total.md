@@ -1,4 +1,6 @@
-## KG
+## KG - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 622,756.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

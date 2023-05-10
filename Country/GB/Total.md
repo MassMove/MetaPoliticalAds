@@ -1,4 +1,6 @@
-## GB
+## GB - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 144,260,605.00 GBP
 
 |Page Name|Spent|Ads|Disclaimer|

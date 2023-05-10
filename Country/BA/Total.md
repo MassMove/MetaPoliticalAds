@@ -1,4 +1,6 @@
-## BA
+## BA - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 1,002,659.00 BAM
 
 |Page Name|Spent|Ads|Disclaimer|

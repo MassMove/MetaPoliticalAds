@@ -1,4 +1,6 @@
-## SZ
+## SZ - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 16,929.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## CZ
+## CZ - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 2,317,102.00 CZK
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## TG
+## TG - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 19,899.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

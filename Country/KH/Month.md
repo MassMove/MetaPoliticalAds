@@ -1,4 +1,6 @@
-## KH
+## KH - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 44,961.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

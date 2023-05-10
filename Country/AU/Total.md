@@ -1,4 +1,6 @@
-## AU
+## AU - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 97,263,338.00 AUD
 
 |Page Name|Spent|Ads|Disclaimer|

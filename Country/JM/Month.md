@@ -1,4 +1,6 @@
-## JM
+## JM - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 65,221.00 JMD
 
 |Page Name|Spent|Ads|Disclaimer|

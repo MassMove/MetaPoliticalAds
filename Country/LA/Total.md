@@ -1,4 +1,6 @@
-## LA
+## LA - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 126,310.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## KZ
+## KZ - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 30,986.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

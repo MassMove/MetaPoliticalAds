@@ -1,4 +1,6 @@
-## AG
+## AG - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 11,886.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

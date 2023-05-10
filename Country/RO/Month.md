@@ -1,4 +1,6 @@
-## RO
+## RO - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 1,230,956.00 RON
 
 |Page Name|Spent|Ads|Disclaimer|

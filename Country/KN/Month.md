@@ -1,4 +1,6 @@
-## KN
+## KN - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 7,362.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

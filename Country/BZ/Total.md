@@ -1,4 +1,6 @@
-## BZ
+## BZ - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 355,010.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

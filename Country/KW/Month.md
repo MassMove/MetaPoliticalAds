@@ -1,4 +1,6 @@
-## KW
+## KW - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 29,328.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## NL
+## NL - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 622,094.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|

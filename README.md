@@ -2,9 +2,9 @@
 
 Summary of the [Meta Political Ads Library](https://www.facebook.com/ads/library).
 
-Source data: [/MetaData](MetaData).
+Source data: [/MetaData](https://github.com/MassMove/MetaPoliticalAds/tree/main/MetaData).
 
-Last run: 2023-05-09.
+Last run: 2023-05-10.
 
 |Country|Total Spent|Last Month|Currency|
 |:---|---:|---:|:---|

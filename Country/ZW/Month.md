@@ -1,4 +1,6 @@
-## ZW
+## ZW - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 18,595.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

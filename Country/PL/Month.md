@@ -1,4 +1,6 @@
-## PL
+## PL - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 1,586,599.00 PLN
 
 |Page Name|Spent|Ads|Disclaimer|

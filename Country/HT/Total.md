@@ -1,4 +1,6 @@
-## HT
+## HT - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 488,097.00 HTG
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## CA
+## CA - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 157,785,413.00 CAD
 
 |Page Name|Spent|Ads|Disclaimer|

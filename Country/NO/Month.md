@@ -1,4 +1,6 @@
-## NO
+## NO - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 1,854,907.00 NOK
 
 |Page Name|Spent|Ads|Disclaimer|

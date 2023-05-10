@@ -1,4 +1,6 @@
-## AI
+## AI - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 5,049.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

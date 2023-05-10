@@ -1,4 +1,6 @@
-## MX
+## MX - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 1,081,081,057.00 MXN
 
 |Page Name|Spent|Ads|Disclaimer|

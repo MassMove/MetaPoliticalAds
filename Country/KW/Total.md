@@ -1,4 +1,6 @@
-## KW
+## KW - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 240,732.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

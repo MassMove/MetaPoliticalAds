@@ -1,4 +1,6 @@
-## AI
+## AI - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 39,798.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

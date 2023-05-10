@@ -1,4 +1,6 @@
-## BO
+## BO - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 9,100,933.00 BOB
 
 |Page Name|Spent|Ads|Disclaimer|

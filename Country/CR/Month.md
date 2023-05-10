@@ -1,4 +1,6 @@
-## CR
+## CR - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 1,320,063.00 CRC
 
 |Page Name|Spent|Ads|Disclaimer|

@@ -1,4 +1,6 @@
-## RS
+## RS - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 2,178,488.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|

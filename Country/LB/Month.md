@@ -1,4 +1,6 @@
-## LB
+## LB - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 178,460,386.00 LBP
 
 |Page Name|Spent|Ads|Disclaimer|

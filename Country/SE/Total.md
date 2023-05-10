@@ -1,4 +1,6 @@
-## SE
+## SE - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 597,593,454.00 SEK
 
 |Page Name|Spent|Ads|Disclaimer|

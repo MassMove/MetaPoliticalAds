@@ -1,4 +1,6 @@
-## GD
+## GD - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 10,684.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

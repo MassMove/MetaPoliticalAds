@@ -1,4 +1,6 @@
-## LS
+## LS - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 15,849.00 LSL
 
 |Page Name|Spent|Ads|Disclaimer|

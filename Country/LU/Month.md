@@ -1,4 +1,6 @@
-## LU
+## LU - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 51,901.00 EUR
 
 |Page Name|Spent|Ads|Disclaimer|

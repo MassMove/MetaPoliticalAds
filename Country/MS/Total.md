@@ -1,4 +1,6 @@
-## MS
+## MS - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 37,224.00 XCD
 
 |Page Name|Spent|Ads|Disclaimer|

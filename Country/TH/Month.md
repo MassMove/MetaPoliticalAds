@@ -1,4 +1,6 @@
-## TH
+## TH - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 19,124,930.00 THB
 
 |Page Name|Spent|Ads|Disclaimer|

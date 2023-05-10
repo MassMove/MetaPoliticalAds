@@ -1,4 +1,6 @@
-## BB
+## BB - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 9,900.00 BBD
 
 |Page Name|Spent|Ads|Disclaimer|

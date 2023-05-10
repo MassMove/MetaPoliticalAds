@@ -1,4 +1,6 @@
-## KZ
+## KZ - Lifetime
+**As at**: 2023-05-10
+
 **Total spent**: 745,006.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|

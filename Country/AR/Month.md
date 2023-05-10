@@ -1,4 +1,6 @@
-## AR
+## AR - Last 30 Days
+**As at**: 2023-05-10
+
 **Total spent**: 357,656,328.00 ARS
 
 |Page Name|Spent|Ads|Disclaimer|

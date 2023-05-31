@@ -1,7 +1,7 @@
 ## NP - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 429,879.00 USD
+**Total spent**: 430,563.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -65,6 +65,7 @@
 |[Anil Kumar Jha अनिल कुमार झा](https://www.facebook.com/900258213336333)|520.00|[20](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=900258213336333&search_type=page&media_type=all)|Anil Kumar Jha अनिल कुमार झा|
 |[Pampha Bhusal](https://www.facebook.com/661314577411453)|509.00|[24](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=661314577411453&search_type=page&media_type=all)|Pampha Bhusal|
 |[Ncell](https://www.facebook.com/118424324855375)|508.00|[12](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=118424324855375&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[CGTN](https://www.facebook.com/565225540184937)|482.00|[51](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Manushi Yami Bhattarai - मानुषी येँमि भट्टराई](https://www.facebook.com/105060425210386)|481.00|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=105060425210386&search_type=page&media_type=all)|Ujwal Shrestha|
 |[डॉ. प्रसन्न झा सचिवालय](https://www.facebook.com/108797760836876)|481.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=108797760836876&search_type=page&media_type=all)|Anil Dhamala|
 |[Balkrishna Neupane - KTM-1](https://www.facebook.com/100710522850914)|475.00|[32](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=100710522850914&search_type=page&media_type=all)|Anjan Neupane|
@@ -72,10 +73,9 @@
 |[Shiva Prasad Humagain](https://www.facebook.com/2251156558484015)|473.00|[47](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=2251156558484015&search_type=page&media_type=all)|Anish Blon Lama|
 |[Bed Bahadur Gurung-Shyam जिताऊ अभियान](https://www.facebook.com/100403239545931)|471.00|[12](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=100403239545931&search_type=page&media_type=all)|Swyamshu Shrestha|
 |[Kishor Dutta Baral](https://www.facebook.com/149274172424358)|466.00|[42](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=149274172424358&search_type=page&media_type=all)|Aastha Software and Technology|
-|[CGTN](https://www.facebook.com/565225540184937)|464.00|[51](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Suraj Chandra Lamichhane](https://www.facebook.com/106741275551458)|463.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=106741275551458&search_type=page&media_type=all)|Chaitanya Design|
-|[Samajik Feed](https://www.facebook.com/100996575982707)|452.00|[46](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=100996575982707&search_type=page&media_type=all)|Internet Market Today Pvt. Ltd.|
-|[Govinda Giri](https://www.facebook.com/149255008546296)|446.00|[21](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=149255008546296&search_type=page&media_type=all)|Govinda Giri|
+|[Samajik Feed](https://www.facebook.com/100996575982707)|457.00|[46](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=100996575982707&search_type=page&media_type=all)|Internet Market Today Pvt. Ltd.|
+|[Govinda Giri](https://www.facebook.com/149255008546296)|448.00|[21](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=149255008546296&search_type=page&media_type=all)|Govinda Giri|
 |[CA. Parmeshwar Mahaseth](https://www.facebook.com/100744089479837)|430.00|[36](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=100744089479837&search_type=page&media_type=all)|Internet Market Today Pvt Ltd|
 |[सुशील पन्त, गोरखा क्षेत्र नं. २](https://www.facebook.com/102578685978843)|418.00|[17](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=102578685978843&search_type=page&media_type=all)|Roshan Subedi|
 |[जसपा खोटाङ](https://www.facebook.com/112139968346601)|416.00|[49](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=NP&view_all_page_id=112139968346601&search_type=page&media_type=all)|Jasapa Khotang|

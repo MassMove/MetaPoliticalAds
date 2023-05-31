@@ -1,7 +1,7 @@
 ## SN - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 489,282.00 USD
+**Total spent**: 489,421.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -12,9 +12,9 @@
 |[Phoenix browser](https://www.facebook.com/308211949550826)|1,726.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=308211949550826&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ousmane Sylla](https://www.facebook.com/107150335122537)|1,668.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=107150335122537&search_type=page&media_type=all)|Mouhamadou Diallo|
 |[Dr Moussa Sow Dahra](https://www.facebook.com/105808455059628)|1,535.00|[54](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=105808455059628&search_type=page&media_type=all)|Moussa Sow|
-|[Déthié FALL Officiel](https://www.facebook.com/105708120879544)|1,395.00|[108](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=105708120879544&search_type=page&media_type=all)|Djibril Beye|
+|[Déthié FALL Officiel](https://www.facebook.com/105708120879544)|1,408.00|[110](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=105708120879544&search_type=page&media_type=all)|Djibril Beye|
 |[OFBD Marketing - Communication](https://www.facebook.com/526951861141088)|1,074.00|[41](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=526951861141088&search_type=page&media_type=all)|Cabinet OFBD|
-|[Maguette Sène Officiel](https://www.facebook.com/115610190354167)|929.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=115610190354167&search_type=page&media_type=all)|Maguette Sène Officiel|
+|[Maguette Sène Officiel](https://www.facebook.com/115610190354167)|944.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=115610190354167&search_type=page&media_type=all)|Maguette Sène Officiel|
 |[Amnesty International Sénégal](https://www.facebook.com/158454664180546)|871.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=158454664180546&search_type=page&media_type=all)|Amnesty International Sénégal|
 |[Maguette Sène Officiel](https://www.facebook.com/115610190354167)|706.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=115610190354167&search_type=page&media_type=all)|mseneofficiel|
 |[Conflict Of Nations : World War 3](https://www.facebook.com/339810463063059)|677.00|[79](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=339810463063059&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -40,7 +40,7 @@
 |[اليونيسف بالعربية - UNICEF in Arabic](https://www.facebook.com/166178460072395)|274.00|[158](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=166178460072395&search_type=page&media_type=all)|اليونيسف باستخدام اعتمادات الإعلان على الفيسبوك|
 |[COS PETROGAZ](https://www.facebook.com/2101730973436834)|250.00|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=2101730973436834&search_type=page&media_type=all)|Coz Petrogaz|
 |[Omar Gueye Ndiaye](https://www.facebook.com/103607875507374)|235.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=103607875507374&search_type=page&media_type=all)|Cor Seck|
-|[Barthelemy DIAS l'Officiel](https://www.facebook.com/1617675735213228)|219.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=1617675735213228&search_type=page&media_type=all)|Barthelémy Toye Dias|
+|[Barthelemy DIAS l'Officiel](https://www.facebook.com/1617675735213228)|231.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=1617675735213228&search_type=page&media_type=all)|Barthelémy Toye Dias|
 |[Share_M113_x2](https://www.facebook.com/101359732304206)|217.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=101359732304206&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Hawa Abou Moussa Diallo](https://www.facebook.com/101132998667678)|217.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=101132998667678&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ministre Moustapha Diop](https://www.facebook.com/1501570506768598)|217.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SN&view_all_page_id=1501570506768598&search_type=page&media_type=all)|Elaj Toure|

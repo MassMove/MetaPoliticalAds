@@ -1,7 +1,7 @@
 ## GY - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 359,182.00 USD
+**Total spent**: 358,885.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -51,12 +51,12 @@
 |[Bishop Juan Edghill](https://www.facebook.com/626281981336155)|≤100|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=626281981336155&search_type=page&media_type=all)|Juan Anthony Edghill|
 |[Curiosity Stream](https://www.facebook.com/565108056966122)|≤100|[33](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=565108056966122&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ninja Visual Arts](https://www.facebook.com/122200595026963)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=122200595026963&search_type=page&media_type=all)|Jamal Raguel Gittens|
-|[Guyana Business Journal & Magazine](https://www.facebook.com/342828533192994)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=342828533192994&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Supremacy 1914](https://www.facebook.com/200480966638039)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Guyana Business Journal & Magazine](https://www.facebook.com/342828533192994)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=342828533192994&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Canada Jobs](https://www.facebook.com/102794965319126)|≤100|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=102794965319126&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[European External Action Service - EEAS](https://www.facebook.com/158402677555776)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=158402677555776&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Speaking Out: Exposing Corruption and Incompetence](https://www.facebook.com/109662051516465)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=109662051516465&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Electoral Reform Group](https://www.facebook.com/108461481118917)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=108461481118917&search_type=page&media_type=all)|Desmond Thomas|
+|[Speaking Out: Exposing Corruption and Incompetence](https://www.facebook.com/109662051516465)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=109662051516465&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Pegasus Hotel Guyana](https://www.facebook.com/268250939978498)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=268250939978498&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[May truth with us](https://www.facebook.com/107293227830375)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=107293227830375&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Vibez Music Promotions](https://www.facebook.com/333431117005561)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GY&view_all_page_id=333431117005561&search_type=page&media_type=all)|These ads ran without a disclaimer|

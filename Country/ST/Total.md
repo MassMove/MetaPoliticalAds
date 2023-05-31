@@ -1,7 +1,7 @@
 ## ST - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 217,318.00 USD
+**Total spent**: 217,516.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -36,8 +36,8 @@
 |[Physicians Across Continents](https://www.facebook.com/1065631633538453)|≤100|[19](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=1065631633538453&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Julia Murça](https://www.facebook.com/150294649018041)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=150294649018041&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Jackpot Party Casino Community](https://www.facebook.com/319749898114045)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=319749898114045&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Vamos trazer a Maria para casa](https://www.facebook.com/103891855463377)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=103891855463377&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[أفضل ألعاب الحرب العربية لعام 2022](https://www.facebook.com/121255219270912)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=121255219270912&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Vamos trazer a Maria para casa](https://www.facebook.com/103891855463377)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=103891855463377&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[UNFPA](https://www.facebook.com/158714780827513)|≤100|[123](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=158714780827513&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[معرض الكانتون](https://www.facebook.com/1048215361885037)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=1048215361885037&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Conflict Of Nations : World War 3](https://www.facebook.com/339810463063059)|≤100|[46](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=339810463063059&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -52,10 +52,10 @@
 |[Orlando Dias - Candidato a Presidente do MpD](https://www.facebook.com/100718982631860)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=100718982631860&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Hitachi Energy](https://www.facebook.com/440459709390224)|≤100|[33](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=440459709390224&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[CPLP - Comunidade dos Países de Língua Portuguesa](https://www.facebook.com/118724814882454)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=118724814882454&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Pedro Tadeu](https://www.facebook.com/100602915032991)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=100602915032991&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Pedro Tadeu](https://www.facebook.com/100602915032991)|≤100|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=100602915032991&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Abroad Scholars](https://www.facebook.com/103657488559934)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=103657488559934&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Raise Three Fingers](https://www.facebook.com/101414535360571)|≤100|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=101414535360571&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Supremacy 1914](https://www.facebook.com/200480966638039)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Raise Three Fingers](https://www.facebook.com/101414535360571)|≤100|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=101414535360571&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[WE ARE CHINA](https://www.facebook.com/173254003362613)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=173254003362613&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[UNICEF](https://www.facebook.com/68793499001)|≤100|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=68793499001&search_type=page&media_type=all)|UNICEF with Facebook Ad Credits|
 |[Vitaly Malkin](https://www.facebook.com/954162551399498)|≤100|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=954162551399498&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -69,6 +69,7 @@
 |[Discover Beijing](https://www.facebook.com/110250330354380)|≤100|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=110250330354380&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[deVere Group](https://www.facebook.com/128323707185817)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=128323707185817&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Next Thing Technologies](https://www.facebook.com/107207931828456)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=107207931828456&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Rosa Luxemburg Foundation](https://www.facebook.com/224597158386607)|≤100|[36](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=224597158386607&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Xu Zeyu](https://www.facebook.com/100162738241949)|≤100|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=100162738241949&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Kaspersky](https://www.facebook.com/127187187348820)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=127187187348820&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[XuQinduo](https://www.facebook.com/100617599250020)|≤100|[9](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=100617599250020&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -93,7 +94,6 @@
 |[Crypto.com](https://www.facebook.com/1355426087883151)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=1355426087883151&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Key VPN-Free VPN C](https://www.facebook.com/106035425063935)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=106035425063935&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Flor Liz](https://www.facebook.com/103061592394639)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=103061592394639&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Global Landscapes Forum](https://www.facebook.com/517231405008910)|≤100|[25](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=517231405008910&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[AMCOW -African Ministers Council on Water](https://www.facebook.com/254579171304474)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=254579171304474&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Payncop STP](https://www.facebook.com/311080749556206)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=311080749556206&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[China.org.cn](https://www.facebook.com/371171589575669)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=371171589575669&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -104,7 +104,7 @@
 |[Pollicy](https://www.facebook.com/1925756184371398)|≤100|[19](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=1925756184371398&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Merge Friends](https://www.facebook.com/106065484513801)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=106065484513801&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Africa's Business Heroes](https://www.facebook.com/500895353689021)|≤100|[15](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=500895353689021&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[CGTN](https://www.facebook.com/565225540184937)|≤100|[35](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[CGTN](https://www.facebook.com/565225540184937)|≤100|[36](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ST&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Total/ST.csv](../../MetaData/Total/ST.csv)

@@ -1,11 +1,11 @@
 ## BH - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 157,440.00 USD
+**Total spent**: 157,666.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
-|[BMC News LIVE](https://www.facebook.com/133223738568337)|4,513.00|[1309](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=133223738568337&search_type=page&media_type=all)|BMC News LIVE|
+|[BMC News LIVE](https://www.facebook.com/133223738568337)|4,536.00|[1315](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=133223738568337&search_type=page&media_type=all)|BMC News LIVE|
 |[Hasan Ebrahim Hasan](https://www.facebook.com/108230165402816)|2,174.00|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=108230165402816&search_type=page&media_type=all)|Cinqo Media Publicity & Advertising W.L.L.|
 |[Votebh](https://www.facebook.com/144046632341902)|1,762.00|[19](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=144046632341902&search_type=page&media_type=all)|Ahmed Abdulla|
 |[مريم الصائغ](https://www.facebook.com/105045152395451)|1,732.00|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=105045152395451&search_type=page&media_type=all)|Mohammed Sayegh|
@@ -21,7 +21,7 @@
 |[جمعية الريادة الشبابية](https://www.facebook.com/100890330060738)|591.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=100890330060738&search_type=page&media_type=all)|جمعية الريادة الشبابية|
 |[2022 حملة د.هنادي الجودر الإنتخابية - Dr. Hanadi Aljowder's Campaign 2022](https://www.facebook.com/106127132304127)|542.00|[9](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=106127132304127&search_type=page&media_type=all)|Hanadi Aljowder|
 |[النائب عمار آل عباس](https://www.facebook.com/347392592690894)|500.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=347392592690894&search_type=page&media_type=all)|عمار آل عباس|
-|[Supremacy 1914](https://www.facebook.com/200480966638039)|413.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Supremacy 1914](https://www.facebook.com/200480966638039)|418.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[نور الحايكي](https://www.facebook.com/112181701676569)|394.00|[9](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=112181701676569&search_type=page&media_type=all)|Noor Alhayki|
 |[Ahmed Al Jowder](https://www.facebook.com/112973481589097)|351.00|[18](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=112973481589097&search_type=page&media_type=all)|Ahmed Al Jowder|
 |[Clever-Inv](https://www.facebook.com/106725868296068)|316.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=106725868296068&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -77,8 +77,8 @@
 |[Connetics USA - Nursing](https://www.facebook.com/389831551149929)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=389831551149929&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Gulf Nеws](https://www.facebook.com/100886642869705)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=100886642869705&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[khalidalmanaseer_](https://www.facebook.com/110611545119066)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=110611545119066&search_type=page&media_type=all)|Khalid Almanaseer|
-|[aralawyer.bh](https://www.facebook.com/101708445861543)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=101708445861543&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[aymanalyasi](https://www.facebook.com/102076652639240)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=102076652639240&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[aralawyer.bh](https://www.facebook.com/101708445861543)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=101708445861543&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[yousif_aljanahi_](https://www.facebook.com/107543582144965)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=107543582144965&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Gulfood](https://www.facebook.com/158417644209993)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=158417644209993&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mimic](https://www.facebook.com/104015742220554)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=104015742220554&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -101,10 +101,10 @@
 |[Purr Fetto](https://www.facebook.com/100151072599310)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=100151072599310&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[UNICEF](https://www.facebook.com/68793499001)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=68793499001&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Shabaka.me](https://www.facebook.com/798394146848054)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=798394146848054&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[reemalharmoudi](https://www.facebook.com/104033275293355)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=104033275293355&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Tri-World Developers](https://www.facebook.com/641539016006215)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=641539016006215&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[World Food Programme](https://www.facebook.com/28312410177)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=28312410177&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Hussain Bushihri](https://www.facebook.com/107516202115377)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=107516202115377&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[reemalharmoudi](https://www.facebook.com/104033275293355)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BH&view_all_page_id=104033275293355&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Total/BH.csv](../../MetaData/Total/BH.csv)

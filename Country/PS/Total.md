@@ -1,12 +1,12 @@
 ## PS - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 163,103.00 USD
+**Total spent**: 163,828.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
 |[اليونيسف بالعربية - UNICEF in Arabic](https://www.facebook.com/166178460072395)|5,997.00|[159](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=166178460072395&search_type=page&media_type=all)|اليونيسف باستخدام اعتمادات الإعلان على الفيسبوك|
-|[وكالة وطن للأنباء](https://www.facebook.com/214225965275748)|3,332.00|[306](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=214225965275748&search_type=page&media_type=all)|وكالة وطن للأنباء|
+|[وكالة وطن للأنباء](https://www.facebook.com/214225965275748)|3,362.00|[306](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=214225965275748&search_type=page&media_type=all)|وكالة وطن للأنباء|
 |[Hussam Qurrish - حسام قرش](https://www.facebook.com/103786149286210)|1,474.00|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=103786149286210&search_type=page&media_type=all)|DotLine|
 |[أفضل ألعاب الحرب العربية لعام 2022](https://www.facebook.com/121255219270912)|1,261.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=121255219270912&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[كتلة المستقبل 12-24](https://www.facebook.com/105227242464061)|799.00|[21](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=105227242464061&search_type=page&media_type=all)|طاهر عابدين|
@@ -33,7 +33,7 @@
 |[Al Jazeera Channel - قناة الجزيرة](https://www.facebook.com/160729029892)|138.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=160729029892&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[الشبكة الفلسطينية لمناهضة خطاب الكراهية](https://www.facebook.com/105904027847270)|125.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=105904027847270&search_type=page&media_type=all)|محمد الهباش|
 |[Sky Palestine - سما فلسطين](https://www.facebook.com/113421654169201)|116.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=113421654169201&search_type=page&media_type=all)|أحمد مصلح|
-|[Supremacy 1914](https://www.facebook.com/200480966638039)|114.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Supremacy 1914](https://www.facebook.com/200480966638039)|116.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[مركز مدارات Madarat Center](https://www.facebook.com/1974148782816559)|109.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=1974148782816559&search_type=page&media_type=all)|مركز مدارات Madarat Center|
 |[مفوضية الإعلام والثقافة حركة فتح - المحافظات الجنوبية](https://www.facebook.com/105045509001061)|105.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=105045509001061&search_type=page&media_type=all)|حركة فتح|
 |[أحداث العالم اليوم](https://www.facebook.com/108058608368165)|104.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PS&view_all_page_id=108058608368165&search_type=page&media_type=all)|These ads ran without a disclaimer|

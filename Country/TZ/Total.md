@@ -1,11 +1,11 @@
 ## TZ - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 634,822.00 USD
+**Total spent**: 634,598.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
-|[Mama yuko Kazini](https://www.facebook.com/101090858962676)|63,429.00|[411](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=101090858962676&search_type=page&media_type=all)|Watanzania|
+|[Mama yuko Kazini](https://www.facebook.com/101090858962676)|63,489.00|[416](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=101090858962676&search_type=page&media_type=all)|Watanzania|
 |[Twitter](https://www.facebook.com/278029242253904)|31,268.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=278029242253904&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Tanzania Post](https://www.facebook.com/106411238719021)|7,582.00|[56](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=106411238719021&search_type=page&media_type=all)|Tanzania Post|
 |[World Health Organization (WHO)](https://www.facebook.com/154163327962392)|4,201.00|[15](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=154163327962392&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -15,13 +15,13 @@
 |[Phoenix browser](https://www.facebook.com/308211949550826)|1,949.00|[17](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=308211949550826&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Kura ya Mtandao](https://www.facebook.com/100356775158044)|1,907.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=100356775158044&search_type=page&media_type=all)|Maoni|
 |[Zanzibar Tunayoitaka](https://www.facebook.com/113684353703584)|1,620.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=113684353703584&search_type=page&media_type=all)|Wananchi|
+|[Cheche Times](https://www.facebook.com/102657886079408)|1,461.00|[9](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=102657886079408&search_type=page&media_type=all)|Cheche Times|
 |[Vodafone Group](https://www.facebook.com/2119732698342937)|1,445.00|[15](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=2119732698342937&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Cheche Times](https://www.facebook.com/102657886079408)|1,363.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=102657886079408&search_type=page&media_type=all)|Cheche Times|
 |[Federal Voting Assistance Program - FVAP](https://www.facebook.com/104504438466)|1,305.00|[16](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=104504438466&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[The Source Initiative](https://www.facebook.com/108043531043346)|1,294.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=108043531043346&search_type=page&media_type=all)|Wananchi|
 |[Jobs in Canada](https://www.facebook.com/100998292278237)|1,150.00|[59](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=100998292278237&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[MSD for Mothers](https://www.facebook.com/100126129326486)|1,143.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=100126129326486&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[ACT Wazalendo](https://www.facebook.com/924670980889820)|1,057.00|[49](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=924670980889820&search_type=page&media_type=all)|ACT Wazalendo|
+|[ACT Wazalendo](https://www.facebook.com/924670980889820)|1,070.00|[50](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=924670980889820&search_type=page&media_type=all)|ACT Wazalendo|
 |[Jobs Vacancies in Canada](https://www.facebook.com/103335725360168)|1,045.00|[25](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=103335725360168&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[World Health Organization African Region](https://www.facebook.com/584311918440395)|1,024.00|[12](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=584311918440395&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[World Food Programme](https://www.facebook.com/28312410177)|1,019.00|[212](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=28312410177&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -66,7 +66,7 @@
 |[Bayport Tanzania](https://www.facebook.com/1192909250720311)|140.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=1192909250720311&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Curio](https://www.facebook.com/1730630540553065)|139.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=1730630540553065&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Hitachi Energy](https://www.facebook.com/440459709390224)|131.00|[46](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=440459709390224&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Supremacy 1914](https://www.facebook.com/200480966638039)|128.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Supremacy 1914](https://www.facebook.com/200480966638039)|129.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[European External Action Service - EEAS](https://www.facebook.com/158402677555776)|128.00|[16](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=158402677555776&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ecla Africa Consult](https://www.facebook.com/100614852100576)|123.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=100614852100576&search_type=page&media_type=all)|Lauden Michael Cheyo|
 |[Summer Dream Lodge](https://www.facebook.com/359443220872849)|120.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TZ&view_all_page_id=359443220872849&search_type=page&media_type=all)|Hassan Simai|

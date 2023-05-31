@@ -1,7 +1,7 @@
 ## KZ - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 745,006.00 USD
+**Total spent**: 746,086.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -9,12 +9,12 @@
 |[Qaz_press](https://www.facebook.com/100893452838279)|62,410.00|[101](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=100893452838279&search_type=page&media_type=all)|Qaz_press|
 |[Kerr Dickerson](https://www.facebook.com/104507215694852)|32,352.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=104507215694852&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Бүгінгі Шығыс](https://www.facebook.com/120414899350215)|26,473.00|[91](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=120414899350215&search_type=page&media_type=all)|Бүгінгі Шығыс|
-|[Азаматхан Амиртаев](https://www.facebook.com/209953059873414)|14,304.00|[102](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=209953059873414&search_type=page&media_type=all)|Азаматхан Амиртаев|
+|[Азаматхан Амиртаев](https://www.facebook.com/209953059873414)|14,308.00|[103](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=209953059873414&search_type=page&media_type=all)|Азаматхан Амиртаев|
 |[Krivosheev.live](https://www.facebook.com/324882354342147)|11,414.00|[256](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=324882354342147&search_type=page&media_type=all)|Denis Krivosheyev|
 |[Amanat Партиясы Астана қалалық филиалы](https://www.facebook.com/115515608097291)|7,160.00|[419](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=115515608097291&search_type=page&media_type=all)|Amanat Партиясы Астана қалалық филиалы|
 |[Байтақ жасылдар партиясы](https://www.facebook.com/2221910871281012)|6,826.00|[60](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=2221910871281012&search_type=page&media_type=all)|«Baytaq» Жасылдар партиясы|
 |[AMANAT](https://www.facebook.com/490537527710049)|6,385.00|[318](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=490537527710049&search_type=page&media_type=all)|AMANAT|
-|[Ақорда жаңалықтары](https://www.facebook.com/107245640677814)|5,675.00|[65](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=107245640677814&search_type=page&media_type=all)|Ақорда жаңалықтары|
+|[Ақорда жаңалықтары](https://www.facebook.com/107245640677814)|5,730.00|[71](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=107245640677814&search_type=page&media_type=all)|Ақорда жаңалықтары|
 |[Asset Matayev](https://www.facebook.com/110454625307832)|5,652.00|[65](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=110454625307832&search_type=page&media_type=all)|perfomance|
 |[Уразалы Ержанов](https://www.facebook.com/115610528117458)|4,843.00|[18](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=115610528117458&search_type=page&media_type=all)|Уразалы Ержанов|
 |[Beeline.people](https://www.facebook.com/110613384105393)|4,454.00|[17](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=110613384105393&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -67,8 +67,8 @@
 |[Тимур Елеусизов](https://www.facebook.com/101946548962746)|986.00|[32](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=101946548962746&search_type=page&media_type=all)|Тимур Елеусизов|
 |[Дмитрий Олейников](https://www.facebook.com/101720929392107)|954.00|[54](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=101720929392107&search_type=page&media_type=all)|Дмитрий Олейников|
 |[Светлана Романовская](https://www.facebook.com/562459700586472)|944.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=562459700586472&search_type=page&media_type=all)|Национальная Палата Медиаторов|
+|[Tiger Films](https://www.facebook.com/113399854332655)|919.00|[19](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=113399854332655&search_type=page&media_type=all)|Tiger Films|
 |[Eco ankle](https://www.facebook.com/101650962606809)|914.00|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=101650962606809&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Tiger Films](https://www.facebook.com/113399854332655)|912.00|[19](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=113399854332655&search_type=page&media_type=all)|Tiger Films|
 |[Shop19 61634861](https://www.facebook.com/106032115600721)|865.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=106032115600721&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Utemissov Murat](https://www.facebook.com/105771609114201)|836.00|[29](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=105771609114201&search_type=page&media_type=all)|Murat Utemissov|
 |[Система Бизнес](https://www.facebook.com/485903081877514)|826.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=485903081877514&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -80,7 +80,7 @@
 |[mirceramiki.kz](https://www.facebook.com/1355571097788416)|795.00|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=1355571097788416&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Асылбек Кожахметов](https://www.facebook.com/101286249578183)|782.00|[41](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=101286249578183&search_type=page&media_type=all)|kozhakhmetovteam.kz|
 |[Toqaev2022](https://www.facebook.com/105793202322890)|780.00|[68](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=105793202322890&search_type=page&media_type=all)|Toqaev2022|
-|[Республика - Kazakhstan 2.0](https://www.facebook.com/170032706814473)|771.00|[152](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=170032706814473&search_type=page&media_type=all)|Юлия Козлова|
+|[Республика - Kazakhstan 2.0](https://www.facebook.com/170032706814473)|778.00|[152](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=170032706814473&search_type=page&media_type=all)|Юлия Козлова|
 |[Бейбит Турабаев](https://www.facebook.com/115427418147799)|763.00|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=115427418147799&search_type=page&media_type=all)|Beibit Turabayev|
 |[Shop19 4980932](https://www.facebook.com/102202385990431)|759.00|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=102202385990431&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Движение вперед](https://www.facebook.com/112034364974227)|741.00|[20](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KZ&view_all_page_id=112034364974227&search_type=page&media_type=all)|These ads ran without a disclaimer|

@@ -1,7 +1,7 @@
 ## LK - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 1,511,650.00 USD
+**Total spent**: 1,511,593.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -16,7 +16,7 @@
 |[Transparency International Sri Lanka](https://www.facebook.com/1544194855823120)|9,317.00|[121](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1544194855823120&search_type=page&media_type=all)|Transparency Sri Lanka|
 |[Madhura Vithanage](https://www.facebook.com/249209535102376)|8,093.00|[101](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=249209535102376&search_type=page&media_type=all)|Madhura Vithanage|
 |[Thilanga Sumathipala](https://www.facebook.com/256572301021159)|8,063.00|[185](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=256572301021159&search_type=page&media_type=all)|Thilanga Sumathipala|
-|[ගොඩයමු - Godayamu](https://www.facebook.com/104835755774891)|7,218.00|[141](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=104835755774891&search_type=page&media_type=all)|The Godayamu Collective|
+|[ගොඩයමු - Godayamu](https://www.facebook.com/104835755774891)|7,229.00|[141](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=104835755774891&search_type=page&media_type=all)|The Godayamu Collective|
 |[Media Empowerment for a Democratic Sri Lanka - MEND](https://www.facebook.com/102557421628605)|6,397.00|[187](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=102557421628605&search_type=page&media_type=all)|IREX MEND|
 |[Danasiri Amaratunga - ධනසිරි අමරතුංග](https://www.facebook.com/1610045235876122)|6,298.00|[173](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1610045235876122&search_type=page&media_type=all)|Nadeeka Indunil Pathirage|
 |[Udaya Prabhath Gammanpila](https://www.facebook.com/56427674252)|6,188.00|[97](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=56427674252&search_type=page&media_type=all)|Udaya Prabhath Gammanpila|
@@ -34,7 +34,7 @@
 |[Shehara Herath - නීතිඥ ෂෙහාර හේරත්](https://www.facebook.com/245587956350454)|3,852.00|[154](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=245587956350454&search_type=page&media_type=all)|People of Gampaha|
 |[Anuradha Jayaratne](https://www.facebook.com/357320831038241)|3,707.00|[147](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=357320831038241&search_type=page&media_type=all)|Kites Global|
 |[Ajith Mannapperuma](https://www.facebook.com/720835494709891)|3,706.00|[133](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=720835494709891&search_type=page&media_type=all)|Mannapperuma Appuhameylage Kapila Ajith Kumara Mannapperuma|
-|[Shiraz Yoonus](https://www.facebook.com/615715978614911)|3,616.00|[142](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=615715978614911&search_type=page&media_type=all)|Shiraz Yoonus|
+|[Shiraz Yoonus](https://www.facebook.com/615715978614911)|3,620.00|[142](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=615715978614911&search_type=page&media_type=all)|Shiraz Yoonus|
 |[Transparency International Sri Lanka](https://www.facebook.com/1544194855823120)|3,613.00|[41](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1544194855823120&search_type=page&media_type=all)|Transparency International Sri Lanka|
 |[Anuradha Wimalaratne](https://www.facebook.com/1452697288291768)|3,589.00|[93](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1452697288291768&search_type=page&media_type=all)|Anuradha Wimalaratne|
 |[Keheliya Rambukwella](https://www.facebook.com/274743422961877)|3,350.00|[162](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=274743422961877&search_type=page&media_type=all)|Keheliya Bandara Dissanayake Rambukwella|
@@ -102,7 +102,7 @@
 |[M. A. Sumanthiran](https://www.facebook.com/1442812536042249)|1,591.00|[39](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1442812536042249&search_type=page&media_type=all)|Mathiaparanan Abraham Sumanthiran|
 |[Jeevan Thondaman](https://www.facebook.com/1007274892745595)|1,586.00|[43](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1007274892745595&search_type=page&media_type=all)|Ceylon Workers Congress|
 |[Rohana Bandara - RO](https://www.facebook.com/108699094219593)|1,581.00|[80](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=108699094219593&search_type=page&media_type=all)|Chamila Manchanayake|
-|[Arogya Herbal](https://www.facebook.com/107341371550141)|1,571.00|[47](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=107341371550141&search_type=page&media_type=all)|Arogya Herbal|
+|[Arogya Herbal](https://www.facebook.com/107341371550141)|1,574.00|[47](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=107341371550141&search_type=page&media_type=all)|Arogya Herbal|
 |[Wasantha Samarasinghe](https://www.facebook.com/1568490606759572)|1,558.00|[35](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=1568490606759572&search_type=page&media_type=all)|Dissanayake Mudiyanselage Nipuni Bhagya Dissanayake|
 |[Diaspora for TNA](https://www.facebook.com/101551081623417)|1,547.00|[59](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LK&view_all_page_id=101551081623417&search_type=page&media_type=all)|Charmaine Thampapillai|
 |...||||

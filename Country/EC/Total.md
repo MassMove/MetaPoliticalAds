@@ -1,7 +1,7 @@
 ## EC - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 6,699,078.00 USD
+**Total spent**: 6,699,467.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -11,9 +11,9 @@
 |[Andrés Arauz](https://www.facebook.com/100160415118003)|215,048.00|[1062](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=100160415118003&search_type=page&media_type=all)|Andres David Arauz Galarza|
 |[Consulta Ciudadana Ec](https://www.facebook.com/100848672800182)|193,704.00|[785](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=100848672800182&search_type=page&media_type=all)|Consulta Ciudadana Ec|
 |[Yo Soy Arauz](https://www.facebook.com/1768594013369414)|104,959.00|[107](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=1768594013369414&search_type=page&media_type=all)|Jorge Mauricio Hernandez Espinosa|
-|[Presidencia de Ecuador](https://www.facebook.com/339660569555689)|95,539.00|[437](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=339660569555689&search_type=page&media_type=all)|Presidencia de Ecuador|
+|[Presidencia de Ecuador](https://www.facebook.com/339660569555689)|95,886.00|[437](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=339660569555689&search_type=page&media_type=all)|Presidencia de Ecuador|
 |[Xavier Hervas](https://www.facebook.com/115104083668107)|70,871.00|[161](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=115104083668107&search_type=page&media_type=all)|Marcelo Xavier Hervas Mora|
-|[Primicias](https://www.facebook.com/2221570604786246)|54,484.00|[3628](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=2221570604786246&search_type=page&media_type=all)|Primicias|
+|[Primicias](https://www.facebook.com/2221570604786246)|54,503.00|[3628](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=2221570604786246&search_type=page&media_type=all)|Primicias|
 |[Cynthia Viteri](https://www.facebook.com/150237258650302)|53,411.00|[667](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=150237258650302&search_type=page&media_type=all)|Cynthia Viteri|
 |[Político EC](https://www.facebook.com/101982775073761)|40,867.00|[503](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=101982775073761&search_type=page&media_type=all)|Político Ec|
 |[Darío Macas](https://www.facebook.com/202378653849689)|39,880.00|[369](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=202378653849689&search_type=page&media_type=all)|Roberto Francisco Armijos Hernandez|
@@ -31,7 +31,7 @@
 |[Mauricio Salem](https://www.facebook.com/102678364942979)|26,118.00|[187](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=102678364942979&search_type=page&media_type=all)|Mauricio Salem A.|
 |[Eduardo del Pozo](https://www.facebook.com/262372043911514)|25,637.00|[278](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=262372043911514&search_type=page&media_type=all)|Eduardo del Pozo|
 |[Andrés Arauz - Comunidad](https://www.facebook.com/102625338253627)|25,436.00|[400](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=102625338253627&search_type=page&media_type=all)|Andrés Arauz - Comunidad|
-|[Goberna Ecuador](https://www.facebook.com/108657847619569)|24,849.00|[1141](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=108657847619569&search_type=page&media_type=all)|Goberna Ecuador|
+|[Goberna Ecuador](https://www.facebook.com/108657847619569)|24,861.00|[1141](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=108657847619569&search_type=page&media_type=all)|Goberna Ecuador|
 |[Andrés Guschmer](https://www.facebook.com/101179141263621)|24,763.00|[97](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=101179141263621&search_type=page&media_type=all)|Andrés Guschmer|
 |[Amigos De John Vinueza](https://www.facebook.com/2174951136066727)|22,639.00|[475](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=2174951136066727&search_type=page&media_type=all)|John Henry Vinueza Salinas|
 |[Wilma Andrade](https://www.facebook.com/103818308149915)|22,013.00|[130](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EC&view_all_page_id=103818308149915&search_type=page&media_type=all)|Wilma Andrade|

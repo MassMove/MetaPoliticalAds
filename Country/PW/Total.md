@@ -1,7 +1,7 @@
 ## PW - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 167,757.00 USD
+**Total spent**: 167,856.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -104,7 +104,7 @@
 |[Facebook Surveys](https://www.facebook.com/1196196390526965)|≤100|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PW&view_all_page_id=1196196390526965&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Hello note](https://www.facebook.com/114013673673802)|≤100|[20](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PW&view_all_page_id=114013673673802&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Asian Institute of Management](https://www.facebook.com/33308238802)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PW&view_all_page_id=33308238802&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Behold Israel](https://www.facebook.com/412409048849179)|≤100|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PW&view_all_page_id=412409048849179&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Mariana Alves](https://www.facebook.com/109391388543268)|≤100|[15](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=PW&view_all_page_id=109391388543268&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Total/PW.csv](../../MetaData/Total/PW.csv)

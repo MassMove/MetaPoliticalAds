@@ -1,7 +1,7 @@
 ## SC - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 293,368.00 USD
+**Total spent**: 293,566.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -100,8 +100,8 @@
 |[Nature Italy](https://www.facebook.com/102023751671829)|≤100|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=102023751671829&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Elevate - Brain Training](https://www.facebook.com/837286056286301)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=837286056286301&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ocean Project](https://www.facebook.com/105666144829254)|≤100|[16](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=105666144829254&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Louis Vuitton](https://www.facebook.com/215138065124)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=215138065124&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Universal Peace Federation Europe & Middle East](https://www.facebook.com/1782646948686572)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=1782646948686572&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Louis Vuitton](https://www.facebook.com/215138065124)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=215138065124&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[World Bank](https://www.facebook.com/153371894688575)|≤100|[25](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=153371894688575&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Islam Net](https://www.facebook.com/143022755731834)|≤100|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=143022755731834&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Tree of Life Ministries｜Evangelism in Israel](https://www.facebook.com/117592091643709)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SC&view_all_page_id=117592091643709&search_type=page&media_type=all)|These ads ran without a disclaimer|

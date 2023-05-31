@@ -1,7 +1,7 @@
 ## LR - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 139,754.00 USD
+**Total spent**: 140,051.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -56,8 +56,8 @@
 |[Welma B. Sampson](https://www.facebook.com/882588741945808)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=882588741945808&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[EU International Partnerships](https://www.facebook.com/287842647957979)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=287842647957979&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Bridge Liberia](https://www.facebook.com/250343022015124)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=250343022015124&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[European External Action Service - EEAS](https://www.facebook.com/158402677555776)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=158402677555776&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[FRANCE 24 English](https://www.facebook.com/176585044433)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=176585044433&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[European External Action Service - EEAS](https://www.facebook.com/158402677555776)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=158402677555776&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Population Media Center](https://www.facebook.com/88410949777)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=88410949777&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mollaei Law](https://www.facebook.com/167327710092323)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=167327710092323&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mengistu Eddie Wolokolie](https://www.facebook.com/101216625798881)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=101216625798881&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -90,7 +90,7 @@
 |[Deutschland.de](https://www.facebook.com/31292782350)|≤100|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=31292782350&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[China.org.cn](https://www.facebook.com/371171589575669)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=371171589575669&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[ENAG Consulting](https://www.facebook.com/1192276550846084)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=1192276550846084&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Radio Cina Internazionale](https://www.facebook.com/299227550122220)|≤100|[44](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=299227550122220&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Radio Cina Internazionale](https://www.facebook.com/299227550122220)|≤100|[45](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=299227550122220&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Let's Eat Diner Monrovia](https://www.facebook.com/1721590984779981)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=1721590984779981&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Blessing Light’ngozi](https://www.facebook.com/100342762418085)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=100342762418085&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Jaha Dukureh](https://www.facebook.com/111901560465601)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=111901560465601&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -102,9 +102,9 @@
 |[Acton Institute](https://www.facebook.com/18017481462)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=18017481462&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Trending in China](https://www.facebook.com/423670114403144)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=423670114403144&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[R2-TV Liberia](https://www.facebook.com/113120177182019)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=113120177182019&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Like Really?](https://www.facebook.com/887289491336788)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=887289491336788&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Asia World Model United Nations](https://www.facebook.com/1286486861452393)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=1286486861452393&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Bulletin of the Atomic Scientists](https://www.facebook.com/10881062011)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=10881062011&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Shanghai Electric](https://www.facebook.com/102415047928145)|≤100|[9](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LR&view_all_page_id=102415047928145&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Total/LR.csv](../../MetaData/Total/LR.csv)

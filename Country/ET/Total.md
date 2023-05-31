@@ -1,7 +1,7 @@
 ## ET - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 458,977.00 USD
+**Total spent**: 458,982.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -18,7 +18,7 @@
 |[UNICEF](https://www.facebook.com/68793499001)|635.00|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=68793499001&search_type=page&media_type=all)|an advertiser in Ethiopia|
 |[Bill Gates](https://www.facebook.com/216311481960)|590.00|[57](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=216311481960&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[I VOTE Ethiopia](https://www.facebook.com/109324324553667)|555.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=109324324553667&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Chaltu Sani - ጫልቱ ሳኒ Minister](https://www.facebook.com/104876078661597)|512.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=104876078661597&search_type=page&media_type=all)|an advertiser in Ethiopia|
+|[Chaltu Sani - ጫልቱ ሳኒ Minister](https://www.facebook.com/104876078661597)|513.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=104876078661597&search_type=page&media_type=all)|an advertiser in Ethiopia|
 |[ኢትዮጵያን ገናናት](https://www.facebook.com/121232752609784)|480.00|[193](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=121232752609784&search_type=page&media_type=all)|an advertiser in Ethiopia|
 |[World Health Organization African Region](https://www.facebook.com/584311918440395)|458.00|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=584311918440395&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Friends of Tigray Delaware](https://www.facebook.com/332368951490481)|402.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=332368951490481&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -52,8 +52,8 @@
 |[China Huaneng Group](https://www.facebook.com/106497154172342)|131.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=106497154172342&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[UNICEF](https://www.facebook.com/68793499001)|131.00|[51](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=68793499001&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Invest in China](https://www.facebook.com/139292913435055)|125.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=139292913435055&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[CGTN](https://www.facebook.com/565225540184937)|123.00|[39](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[BBC StoryWorks](https://www.facebook.com/1834313933459789)|123.00|[12](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=1834313933459789&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[CGTN](https://www.facebook.com/565225540184937)|119.00|[39](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[PASTOR W F KUMUYI](https://www.facebook.com/325885259477)|118.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=325885259477&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Speechify](https://www.facebook.com/248986568895243)|117.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=248986568895243&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[All Translator Pro-1](https://www.facebook.com/554405848049694)|116.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ET&view_all_page_id=554405848049694&search_type=page&media_type=all)|These ads ran without a disclaimer|

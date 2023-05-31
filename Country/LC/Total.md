@@ -1,15 +1,15 @@
 ## LC - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 211,696.00 USD
+**Total spent**: 211,698.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
 |[United Workers Party (Saint Lucia)](https://www.facebook.com/233603476696460)|6,810.00|[219](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=233603476696460&search_type=page&media_type=all)|United Workers Party|
-|[Allen Chastanet](https://www.facebook.com/1409638192624686)|5,580.00|[217](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1409638192624686&search_type=page&media_type=all)|Allen Chastanet|
+|[Allen Chastanet](https://www.facebook.com/1409638192624686)|5,582.00|[217](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1409638192624686&search_type=page&media_type=all)|Allen Chastanet|
 |[Saint Lucia Labour Party](https://www.facebook.com/55788240650)|5,375.00|[62](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=55788240650&search_type=page&media_type=all)|Saint Lucia Labour Party|
 |[Same Old Labour](https://www.facebook.com/103771205293248)|4,743.00|[87](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=103771205293248&search_type=page&media_type=all)|Same Old Labour|
-|[Ernest Hilaire](https://www.facebook.com/1547055452258211)|3,238.00|[99](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1547055452258211&search_type=page&media_type=all)|Ernest Hilaire|
+|[Ernest Hilaire](https://www.facebook.com/1547055452258211)|3,238.00|[100](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1547055452258211&search_type=page&media_type=all)|Ernest Hilaire|
 |[Star Struck](https://www.facebook.com/284538805083530)|2,899.00|[37](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=284538805083530&search_type=page&media_type=all)|Star Struck|
 |[Philip J. Pierre](https://www.facebook.com/1041704005884127)|2,827.00|[71](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1041704005884127&search_type=page&media_type=all)|Philip J. Pierre|
 |[Kenson Casimir](https://www.facebook.com/2330698243884299)|1,186.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=2330698243884299&search_type=page&media_type=all)|Saint Lucia Labour Party|
@@ -60,8 +60,8 @@
 |[Travel & Leisure Centre](https://www.facebook.com/134200056938950)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=134200056938950&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Seekers Notes](https://www.facebook.com/604742389649107)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=604742389649107&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Curio](https://www.facebook.com/1730630540553065)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1730630540553065&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Saint Lucia Cancer Society](https://www.facebook.com/1927102000913167)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1927102000913167&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[National Green Party Saint Lucia - NGP](https://www.facebook.com/251493288215444)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=251493288215444&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Saint Lucia Cancer Society](https://www.facebook.com/1927102000913167)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1927102000913167&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[You Me & Him](https://www.facebook.com/107696981365822)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=107696981365822&search_type=page&media_type=all)|You Me & Him|
 |[CTA Saint Lucia](https://www.facebook.com/108895892030693)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=108895892030693&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Star Struck](https://www.facebook.com/284538805083530)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=284538805083530&search_type=page&media_type=all)|Germina Y Hippolyte|
@@ -103,8 +103,8 @@
 |[Follow Your Legend](https://www.facebook.com/1917715138510680)|≤100|[40](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1917715138510680&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Philip J. Pierre](https://www.facebook.com/1041704005884127)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=1041704005884127&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Organisation of Eastern Caribbean States](https://www.facebook.com/274064390845)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=274064390845&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[soscarbon](https://www.facebook.com/101810071877211)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=101810071877211&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[United Workers Party (Saint Lucia)](https://www.facebook.com/233603476696460)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=233603476696460&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[soscarbon](https://www.facebook.com/101810071877211)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=LC&view_all_page_id=101810071877211&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |...||||
 
 View all in [Total/LC.csv](../../MetaData/Total/LC.csv)

@@ -1,11 +1,11 @@
 ## BZ - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 355,010.00 USD
+**Total spent**: 354,638.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
-|[Belize City Council](https://www.facebook.com/1439827996248795)|6,371.00|[385](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BZ&view_all_page_id=1439827996248795&search_type=page&media_type=all)|Belize City Council|
+|[Belize City Council](https://www.facebook.com/1439827996248795)|6,395.00|[385](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BZ&view_all_page_id=1439827996248795&search_type=page&media_type=all)|Belize City Council|
 |[San Pedro Town Council](https://www.facebook.com/150561598426238)|2,522.00|[318](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BZ&view_all_page_id=150561598426238&search_type=page&media_type=all)|San Pedro Town Council|
 |[UDP Belize](https://www.facebook.com/1496442900615787)|2,220.00|[85](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BZ&view_all_page_id=1496442900615787&search_type=page&media_type=all)|Roosevelt Blades|
 |[Hon. Shyne Barrow LOO 13 MP-Mesopotamia-UDP](https://www.facebook.com/143765216436631)|2,068.00|[158](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BZ&view_all_page_id=143765216436631&search_type=page&media_type=all)|Moses Michael Levi Barrow|

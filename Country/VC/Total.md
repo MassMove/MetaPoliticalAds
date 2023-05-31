@@ -1,13 +1,13 @@
 ## VC - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 366,837.00 USD
+**Total spent**: 366,659.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
-|[New Democratic Party](https://www.facebook.com/335129206031)|79,601.00|[209](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=335129206031&search_type=page&media_type=all)|New Democratic Party|
+|[New Democratic Party](https://www.facebook.com/335129206031)|79,605.00|[209](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=335129206031&search_type=page&media_type=all)|New Democratic Party|
 |[Dr. The Hon. Godwin Friday](https://www.facebook.com/340141731122)|34,013.00|[79](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=340141731122&search_type=page&media_type=all)|New Democratic Party|
-|[Get Rid Ah Dem](https://www.facebook.com/675823195926658)|25,893.00|[365](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=675823195926658&search_type=page&media_type=all)|Get Rid Ah Dem|
+|[Get Rid Ah Dem](https://www.facebook.com/675823195926658)|25,909.00|[365](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=675823195926658&search_type=page&media_type=all)|Get Rid Ah Dem|
 |[Laverne Gibson-Velox](https://www.facebook.com/100532385121912)|7,386.00|[28](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=100532385121912&search_type=page&media_type=all)|New Democratic Party|
 |[Dwight Fitzgerald Bramble](https://www.facebook.com/113493770351528)|4,320.00|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=113493770351528&search_type=page&media_type=all)|New Democratic Party|
 |[Shevern John](https://www.facebook.com/107984034411641)|3,940.00|[25](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=107984034411641&search_type=page&media_type=all)|New Democratic Party|
@@ -37,8 +37,8 @@
 |[Soi Dog Foundation](https://www.facebook.com/108625789179165)|≤100|[98](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=108625789179165&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Sagicor Cave Hill School of Business and Management - The UWI Cave Hill](https://www.facebook.com/174669235904729)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=174669235904729&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[ShareTheMeal](https://www.facebook.com/503951883021764)|≤100|[41](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=503951883021764&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[The Correctness](https://www.facebook.com/103468501590488)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=103468501590488&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Supremacy 1914](https://www.facebook.com/200480966638039)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[The Correctness](https://www.facebook.com/103468501590488)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=103468501590488&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Asric Jardine](https://www.facebook.com/105714061313601)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=105714061313601&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ultra Fighter: Supernova](https://www.facebook.com/109091011430956)|≤100|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=109091011430956&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[FOUR PAWS](https://www.facebook.com/245094455536925)|≤100|[39](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=VC&view_all_page_id=245094455536925&search_type=page&media_type=all)|These ads ran without a disclaimer|

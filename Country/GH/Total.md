@@ -1,7 +1,7 @@
 ## GH - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 996,793.00 USD
+**Total spent**: 996,645.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -19,7 +19,7 @@
 |[Nana Addo Dankwa Akufo-Addo](https://www.facebook.com/7893934835)|5,020.00|[9](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=7893934835&search_type=page&media_type=all)|Kow Essuman|
 |[Hon. George Mireku Duker - MP, Tarkwa-Nsuaem.](https://www.facebook.com/343780273395073)|4,175.00|[175](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=343780273395073&search_type=page&media_type=all)|Gomashie, Wisdom|
 |[Rebecca Akufo-Addo](https://www.facebook.com/316700695149864)|3,906.00|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=316700695149864&search_type=page&media_type=all)|New Patriotic Party (NPP: Development in Freedom)|
-|[Dr. Matthew Opoku Prempeh](https://www.facebook.com/1885114401706195)|3,863.00|[161](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=1885114401706195&search_type=page&media_type=all)|Dr. Matthew Opoku Prempeh|
+|[Dr. Matthew Opoku Prempeh](https://www.facebook.com/1885114401706195)|3,873.00|[161](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=1885114401706195&search_type=page&media_type=all)|Dr. Matthew Opoku Prempeh|
 |[NCCE Gh](https://www.facebook.com/272113619520972)|3,439.00|[93](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=272113619520972&search_type=page&media_type=all)|NCCE Gh|
 |[Jobs in Canada](https://www.facebook.com/100998292278237)|3,409.00|[59](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=100998292278237&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Dr. Kwabena Duffuor](https://www.facebook.com/110674420604041)|3,379.00|[90](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=110674420604041&search_type=page&media_type=all)|Kwabena Duffuor|
@@ -41,7 +41,7 @@
 |[UNFPA](https://www.facebook.com/158714780827513)|1,236.00|[246](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=158714780827513&search_type=page&media_type=all)|UNFPA|
 |[Come Unto Christ In West Accra](https://www.facebook.com/102618778592624)|1,225.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=102618778592624&search_type=page&media_type=all)|Come Unto Christ In West Accra|
 |[Vodafone Group](https://www.facebook.com/2119732698342937)|1,221.00|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=2119732698342937&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Ghana Education Trust Fund](https://www.facebook.com/519608978084713)|1,173.00|[20](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=519608978084713&search_type=page&media_type=all)|Ghana Education Trust Fund (GETFund)|
+|[Ghana Education Trust Fund](https://www.facebook.com/519608978084713)|1,188.00|[20](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=519608978084713&search_type=page&media_type=all)|Ghana Education Trust Fund (GETFund)|
 |[Youth Empowerment Consortium - YEC](https://www.facebook.com/378062795887614)|1,147.00|[15](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=378062795887614&search_type=page&media_type=all)|YEC Group Initiatiaves|
 |[China Xinhua News](https://www.facebook.com/338109312883186)|1,095.00|[40](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=338109312883186&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Seth Kwame Acheampong](https://www.facebook.com/957138484425960)|1,079.00|[110](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=957138484425960&search_type=page&media_type=all)|Agyenim Boateng|
@@ -59,10 +59,10 @@
 |[Kwadwo Poku for President](https://www.facebook.com/104483818944592)|774.00|[25](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=104483818944592&search_type=page&media_type=all)|Kwadwo Poku|
 |[American University of St. Vincent](https://www.facebook.com/141254455990477)|770.00|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=141254455990477&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Kwadwo Boateng Agyemang](https://www.facebook.com/108606698355633)|747.00|[24](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=108606698355633&search_type=page&media_type=all)|Peres Asamoah|
-|[KYSFM-English](https://www.facebook.com/100187268355709)|741.00|[31](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=100187268355709&search_type=page&media_type=all)|Rashida Fatawu|
+|[KYSFM-English](https://www.facebook.com/100187268355709)|745.00|[31](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=100187268355709&search_type=page&media_type=all)|Rashida Fatawu|
 |[Crypto.com](https://www.facebook.com/1355426087883151)|723.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=1355426087883151&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Youth Leadership Parliament](https://www.facebook.com/1579516899042916)|636.00|[39](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=1579516899042916&search_type=page&media_type=all)|Youth Leadership Parliament|
-|[Alan John Kwadwo Kyerematen](https://www.facebook.com/153599544688611)|618.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=153599544688611&search_type=page&media_type=all)|Alan John Kwadwo Kyerematen|
+|[Alan John Kwadwo Kyerematen](https://www.facebook.com/153599544688611)|619.00|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=153599544688611&search_type=page&media_type=all)|Alan John Kwadwo Kyerematen|
 |[FXTM](https://www.facebook.com/277441125605570)|606.00|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=277441125605570&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Conflict Of Nations : World War 3](https://www.facebook.com/339810463063059)|602.00|[89](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=339810463063059&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Youth Empowerment Consortium - YEC](https://www.facebook.com/378062795887614)|593.00|[28](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GH&view_all_page_id=378062795887614&search_type=page&media_type=all)|Kofi Asiedu|

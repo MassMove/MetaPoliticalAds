@@ -1,7 +1,7 @@
 ## SL - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 209,367.00 USD
+**Total spent**: 209,664.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -12,8 +12,8 @@
 |[UNICEF](https://www.facebook.com/68793499001)|222.00|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=68793499001&search_type=page&media_type=all)|UNICEF with Facebook Ad Credits|
 |[Cisco Global Problem Solver Challenge](https://www.facebook.com/793541217464814)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=793541217464814&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Bill Gates](https://www.facebook.com/216311481960)|≤100|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=216311481960&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Strive Masiyiwa](https://www.facebook.com/496453373762496)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=496453373762496&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[CGTN](https://www.facebook.com/565225540184937)|≤100|[53](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=565225540184937&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Strive Masiyiwa](https://www.facebook.com/496453373762496)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=496453373762496&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[UNICEF](https://www.facebook.com/68793499001)|≤100|[87](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=68793499001&search_type=page&media_type=all)|UNICEF|
 |[The Economist](https://www.facebook.com/6013004059)|≤100|[35](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=6013004059&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[AeroTime](https://www.facebook.com/479285342097950)|≤100|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=479285342097950&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -33,8 +33,8 @@
 |[Canton Fair](https://www.facebook.com/270082823183144)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=270082823183144&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[BBC StoryWorks](https://www.facebook.com/1834313933459789)|≤100|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1834313933459789&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Fans Of Dr Fatima Maada Bio](https://www.facebook.com/103146235871058)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=103146235871058&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[First Lady Fatima Maada Bio](https://www.facebook.com/1094040160738126)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1094040160738126&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[pissedoffafrican](https://www.facebook.com/104152785665865)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=104152785665865&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[First Lady Fatima Maada Bio](https://www.facebook.com/1094040160738126)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1094040160738126&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[معرض الكانتون](https://www.facebook.com/1048215361885037)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1048215361885037&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Huawei](https://www.facebook.com/119405895873)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=119405895873&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mama Cash](https://www.facebook.com/126052760507)|≤100|[54](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=126052760507&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -84,11 +84,11 @@
 |[Growatt New Energy](https://www.facebook.com/367649046908008)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=367649046908008&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Beacon of Hope](https://www.facebook.com/1456172994602986)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1456172994602986&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[WIRED UK](https://www.facebook.com/113615355316959)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=113615355316959&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Disruption Network Lab](https://www.facebook.com/1383371788574963)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1383371788574963&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[UNFPA](https://www.facebook.com/158714780827513)|≤100|[10](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=158714780827513&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[E-Volve Energy](https://www.facebook.com/402685743676956)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=402685743676956&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Origins OSU](https://www.facebook.com/131664893560695)|≤100|[21](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=131664893560695&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Jain University-International Relations](https://www.facebook.com/170148983138368)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=170148983138368&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Disruption Network Lab](https://www.facebook.com/1383371788574963)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=1383371788574963&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[China.org.cn](https://www.facebook.com/371171589575669)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=371171589575669&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Liuxininbeijing](https://www.facebook.com/103733191524431)|≤100|[8](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=103733191524431&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Shanghai Electric](https://www.facebook.com/102415047928145)|≤100|[12](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SL&view_all_page_id=102415047928145&search_type=page&media_type=all)|These ads ran without a disclaimer|

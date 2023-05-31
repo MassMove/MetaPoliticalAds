@@ -1,7 +1,7 @@
 ## ML - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 493,402.00 USD
+**Total spent**: 493,711.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -23,10 +23,10 @@
 |[WIRED UK](https://www.facebook.com/113615355316959)|226.00|[51](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=113615355316959&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Nations Unies](https://www.facebook.com/157965634225679)|224.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=157965634225679&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Banque mondiale](https://www.facebook.com/155174084508744)|220.00|[134](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=155174084508744&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Seydou Mamadou Coulibaly](https://www.facebook.com/110569738072660)|218.00|[36](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=110569738072660&search_type=page&media_type=all)|an advertiser in Mali|
 |[Hawa Abou Moussa Diallo](https://www.facebook.com/101132998667678)|211.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=101132998667678&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Federal Voting Assistance Program - FVAP](https://www.facebook.com/104504438466)|208.00|[16](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=104504438466&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Tiéman Hubert Coulibaly](https://www.facebook.com/112962192683417)|208.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=112962192683417&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Seydou Mamadou Coulibaly](https://www.facebook.com/110569738072660)|206.00|[32](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=110569738072660&search_type=page&media_type=all)|an advertiser in Mali|
 |[Ultra Fighter: Supernova](https://www.facebook.com/109091011430956)|197.00|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=109091011430956&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mohammed Alamine Y. H. DICKO](https://www.facebook.com/101748934990431)|192.00|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=101748934990431&search_type=page&media_type=all)|an advertiser in Mali|
 |[Ballinu Montana](https://www.facebook.com/193773314132490)|187.00|[17](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=193773314132490&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -97,11 +97,11 @@
 |[COCEM](https://www.facebook.com/193455304642647)|≤100|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=193455304642647&search_type=page&media_type=all)|an advertiser in Mali|
 |[Strive Masiyiwa](https://www.facebook.com/496453373762496)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=496453373762496&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[EY Careers](https://www.facebook.com/268202636612625)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=268202636612625&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Soutien à Vital Diop](https://www.facebook.com/102498248517004)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=102498248517004&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[La mémoire d'éléphant](https://www.facebook.com/109135121541762)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=109135121541762&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Soutien à Vital Diop](https://www.facebook.com/102498248517004)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=102498248517004&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Center for Israel Education](https://www.facebook.com/320788968000582)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=320788968000582&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Malibook](https://www.facebook.com/648697558528333)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=648697558528333&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[CNOSM - Comité National Olympique et Sportif du Mali](https://www.facebook.com/1440801632856861)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=1440801632856861&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Malibook](https://www.facebook.com/648697558528333)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=648697558528333&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Voilée & Entreprenante](https://www.facebook.com/2152026685110099)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=2152026685110099&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Abdoulaye Konaté dit Blo un espoir pour la jeunesse](https://www.facebook.com/228267031942379)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=228267031942379&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[M7 TV](https://www.facebook.com/1084729381597966)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ML&view_all_page_id=1084729381597966&search_type=page&media_type=all)|an advertiser in Mali|

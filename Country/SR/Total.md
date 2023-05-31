@@ -1,7 +1,7 @@
 ## SR - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 360,236.00 USD
+**Total spent**: 360,434.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -91,9 +91,9 @@
 |[Gaia Education](https://www.facebook.com/129075557117051)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=129075557117051&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mott Foundation](https://www.facebook.com/115137755498)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=115137755498&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Chivaro Gajadien Advisory](https://www.facebook.com/1667718543443617)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=1667718543443617&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Change the World Model United Nations](https://www.facebook.com/267264199961398)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=267264199961398&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[OMS Fashion](https://www.facebook.com/653532368032728)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=653532368032728&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Paraat NPS Paraat](https://www.facebook.com/105512484907251)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=105512484907251&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Change the World Model United Nations](https://www.facebook.com/267264199961398)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=267264199961398&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Cooking Madness - A Chef's Game Community](https://www.facebook.com/140441793233304)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=140441793233304&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Deutschland.de](https://www.facebook.com/31292782350)|≤100|[220](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=31292782350&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Huawei](https://www.facebook.com/119405895873)|≤100|[20](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SR&view_all_page_id=119405895873&search_type=page&media_type=all)|These ads ran without a disclaimer|

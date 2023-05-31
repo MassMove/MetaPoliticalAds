@@ -1,7 +1,7 @@
 ## UZ - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 169,026.00 USD
+**Total spent**: 169,028.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -36,9 +36,9 @@
 |[Единый Портал Узбекистана](https://www.facebook.com/103451135812785)|179.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=103451135812785&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Aktualno.uz](https://www.facebook.com/105531928492637)|155.00|[23](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=105531928492637&search_type=page&media_type=all)|Aktualno.uz|
 |[Awful creator](https://www.facebook.com/115005804540958)|155.00|[12](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=115005804540958&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Supremacy 1914](https://www.facebook.com/200480966638039)|140.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Expo Health Tourism](https://www.facebook.com/103023169261614)|140.00|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=103023169261614&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Epic Demons](https://www.facebook.com/107307652135605)|139.00|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=107307652135605&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Supremacy 1914](https://www.facebook.com/200480966638039)|138.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Alisher Isaev blogi](https://www.facebook.com/102739485145815)|137.00|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=102739485145815&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ashlely](https://www.facebook.com/105173278984700)|131.00|[15](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=105173278984700&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Marketing Ingenious](https://www.facebook.com/103623615766131)|127.00|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UZ&view_all_page_id=103623615766131&search_type=page&media_type=all)|These ads ran without a disclaimer|

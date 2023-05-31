@@ -1,7 +1,7 @@
 ## UA - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 17,274,457.00 USD
+**Total spent**: 17,278,082.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -19,7 +19,7 @@
 |[Жіночий рух "ЗА Майбутнє"](https://www.facebook.com/102620228208757)|81,134.00|[1990](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=102620228208757&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Obozrevatel](https://www.facebook.com/145276418816044)|79,411.00|[1008](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=145276418816044&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Volodymyr Groysman](https://www.facebook.com/149481385220784)|78,820.00|[515](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=149481385220784&search_type=page&media_type=all)|an advertiser in Ukraine|
-|[КОЛО ЖИТТЯ](https://www.facebook.com/102918915827968)|75,153.00|[752](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=102918915827968&search_type=page&media_type=all)|an advertiser in Ukraine|
+|[КОЛО ЖИТТЯ](https://www.facebook.com/102918915827968)|75,587.00|[756](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=102918915827968&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Шустер online](https://www.facebook.com/348669076008)|69,932.00|[1053](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=348669076008&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Демократична Сокира](https://www.facebook.com/426507261147892)|66,937.00|[295](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=426507261147892&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Європейська Солідарність - Київ](https://www.facebook.com/2245813635668524)|65,854.00|[333](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=2245813635668524&search_type=page&media_type=all)|an advertiser in Ukraine|
@@ -89,12 +89,12 @@
 |[Stratcom Ukraine](https://www.facebook.com/198177307210351)|19,442.00|[22](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=198177307210351&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Запоріжжя ЗА Майбутнє](https://www.facebook.com/107325037726445)|19,129.00|[258](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=107325037726445&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[espreso.tv](https://www.facebook.com/542283352532085)|18,432.00|[531](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=542283352532085&search_type=page&media_type=all)|an advertiser in Ukraine|
+|[РБК Україна](https://www.facebook.com/115405411859145)|18,279.00|[222](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=115405411859145&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Всеукраїнський Форум Україна 30](https://www.facebook.com/345301189876843)|18,227.00|[491](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=345301189876843&search_type=page&media_type=all)|an advertiser in Ukraine|
-|[РБК Україна](https://www.facebook.com/115405411859145)|18,169.00|[222](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=115405411859145&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Партія Шарія](https://www.facebook.com/2146764502111758)|18,085.00|[617](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=2146764502111758&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Українська Галицька Партія. Львів](https://www.facebook.com/337260343393910)|17,965.00|[711](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=337260343393910&search_type=page&media_type=all)|an advertiser in Ukraine|
+|[Леонід Черновецький](https://www.facebook.com/100426782637156)|17,875.00|[55](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=100426782637156&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Dmytro Nikonov](https://www.facebook.com/122570431792570)|17,769.00|[140](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=122570431792570&search_type=page&media_type=all)|an advertiser in Ukraine|
-|[Леонід Черновецький](https://www.facebook.com/100426782637156)|17,744.00|[55](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=100426782637156&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Сила Людей Тернополя](https://www.facebook.com/476996839445136)|17,597.00|[629](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=476996839445136&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[Ігор Васюник](https://www.facebook.com/342757566147237)|17,564.00|[107](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=342757566147237&search_type=page&media_type=all)|an advertiser in Ukraine|
 |[112.ua](https://www.facebook.com/207995049377332)|17,392.00|[61](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=UA&view_all_page_id=207995049377332&search_type=page&media_type=all)|an advertiser in Ukraine|

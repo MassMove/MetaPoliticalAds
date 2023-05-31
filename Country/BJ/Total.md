@@ -1,7 +1,7 @@
 ## BJ - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 338,448.00 USD
+**Total spent**: 338,745.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -67,12 +67,12 @@
 |[Afro impact](https://www.facebook.com/100152379127242)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=100152379127242&search_type=page&media_type=all)|Afro impact|
 |[Curio](https://www.facebook.com/1730630540553065)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=1730630540553065&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ayoba Instant Messaging](https://www.facebook.com/431658270979907)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=431658270979907&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Bénin Check](https://www.facebook.com/115405153228672)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=115405153228672&search_type=page&media_type=all)|Bénin Check|
 |[Academie services](https://www.facebook.com/108980710773902)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=108980710773902&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Bénin Check](https://www.facebook.com/115405153228672)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=115405153228672&search_type=page&media_type=all)|Bénin Check|
 |[AFRIQUE FOOTBALL](https://www.facebook.com/120701958546)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=120701958546&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[KOAMI koffi Prosper](https://www.facebook.com/101848591159499)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=101848591159499&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Diaspora Usl Belgique](https://www.facebook.com/103103638581067)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=103103638581067&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Joseph Djogbenou](https://www.facebook.com/174784250092111)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=174784250092111&search_type=page&media_type=all)|Joseph Djogbenou|
-|[KOAMI koffi Prosper](https://www.facebook.com/101848591159499)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=101848591159499&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Foire Internationale de Parakou](https://www.facebook.com/110480264790651)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=110480264790651&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[BIN BUILDING BUSINESS](https://www.facebook.com/105848834322162)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=105848834322162&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Share_M113_x2](https://www.facebook.com/101359732304206)|≤100|[4](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=101359732304206&search_type=page&media_type=all)|These ads ran without a disclaimer|
@@ -87,8 +87,8 @@
 |[Chic Me](https://www.facebook.com/804997446264798)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=804997446264798&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[deraillagetv](https://www.facebook.com/105346311730450)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=105346311730450&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Sommet de la Francophonie de Djerba 2022](https://www.facebook.com/107700665175923)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=107700665175923&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Abolitionist Strategy](https://www.facebook.com/105353931661587)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=105353931661587&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[AeroTime](https://www.facebook.com/479285342097950)|≤100|[13](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=479285342097950&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Abolitionist Strategy](https://www.facebook.com/105353931661587)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=105353931661587&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mollaei Law](https://www.facebook.com/167327710092323)|≤100|[30](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=167327710092323&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Serge Espoir Matomba](https://www.facebook.com/400124756671203)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=400124756671203&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ouédraogo Wendinminté](https://www.facebook.com/175469506172598)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BJ&view_all_page_id=175469506172598&search_type=page&media_type=all)|These ads ran without a disclaimer|

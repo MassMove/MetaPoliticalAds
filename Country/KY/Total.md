@@ -1,7 +1,7 @@
 ## KY - Lifetime
 **As at**: 2023-05-10
 
-**Total spent**: 171,806.00 USD
+**Total spent**: 171,410.00 USD
 
 |Page Name|Spent|Ads|Disclaimer|
 |:---|---:|---:|:---|
@@ -49,10 +49,10 @@
 |[People's Party Cayman](https://www.facebook.com/117682846805760)|138.00|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=117682846805760&search_type=page&media_type=all)|Grecia Carolina Iuculano|
 |[Tortuga Cayman](https://www.facebook.com/211780295668090)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=211780295668090&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Kenneth Bryan](https://www.facebook.com/1774393956129805)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=1774393956129805&search_type=page&media_type=all)|Executive Marketing|
-|[Soi Dog Foundation](https://www.facebook.com/108625789179165)|≤100|[112](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=108625789179165&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Supremacy 1914](https://www.facebook.com/200480966638039)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=200480966638039&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Rolston Anglin](https://www.facebook.com/101978498591074)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=101978498591074&search_type=page&media_type=all)|Jewel Marissa Hydes|
+|[Soi Dog Foundation](https://www.facebook.com/108625789179165)|≤100|[112](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=108625789179165&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Ministry of Health & Wellness](https://www.facebook.com/1629071663994906)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=1629071663994906&search_type=page&media_type=all)|Ministry of Health & Wellness|
+|[Rolston Anglin](https://www.facebook.com/101978498591074)|≤100|[6](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=101978498591074&search_type=page&media_type=all)|Jewel Marissa Hydes|
 |[Barkers Beach](https://www.facebook.com/103766514811906)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=103766514811906&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Electmccleary2021](https://www.facebook.com/340049687184689)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=340049687184689&search_type=page&media_type=all)|Craig Frederick|
 |[The Progressives](https://www.facebook.com/122560994513217)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=122560994513217&search_type=page&media_type=all)|Julie Hutton|
@@ -61,12 +61,12 @@
 |[Ultra Fighter: Supernova](https://www.facebook.com/109091011430956)|≤100|[14](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=109091011430956&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Dwayne 'John John' Seymour- Bodden Town East](https://www.facebook.com/192268647934950)|≤100|[7](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=192268647934950&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Mindvalley](https://www.facebook.com/719853864726295)|≤100|[32](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=719853864726295&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[UNHCR, the UN Refugee Agency](https://www.facebook.com/13204463437)|≤100|[42](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=13204463437&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[UNHCR, the UN Refugee Agency](https://www.facebook.com/13204463437)|≤100|[45](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=13204463437&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Arden McLean The Action Man](https://www.facebook.com/115253173936183)|≤100|[5](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=115253173936183&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Primitive Greens](https://www.facebook.com/102254032076463)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=102254032076463&search_type=page&media_type=all)|Primitive Greens|
 |[ShareTheMeal](https://www.facebook.com/503951883021764)|≤100|[31](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=503951883021764&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[communitycreatescountry](https://www.facebook.com/105552361529408)|≤100|[2](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=105552361529408&search_type=page&media_type=all)|These ads ran without a disclaimer|
-|[Humane Society International](https://www.facebook.com/19746387261)|≤100|[79](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=19746387261&search_type=page&media_type=all)|These ads ran without a disclaimer|
+|[Humane Society International](https://www.facebook.com/19746387261)|≤100|[78](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=19746387261&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Cayman Current](https://www.facebook.com/101294035025267)|≤100|[1](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=101294035025267&search_type=page&media_type=all)|Patrick Davis Brendel|
 |[World Health Organization (WHO)](https://www.facebook.com/154163327962392)|≤100|[11](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=154163327962392&search_type=page&media_type=all)|These ads ran without a disclaimer|
 |[Caymanian Times](https://www.facebook.com/1862626167338369)|≤100|[3](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KY&view_all_page_id=1862626167338369&search_type=page&media_type=all)|These ads ran without a disclaimer|

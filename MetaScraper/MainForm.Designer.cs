@@ -59,6 +59,7 @@ namespace MetaScraper
             this.Name = "MainForm";
             this.Text = "MetaScraper";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.ResumeLayout(false);
 
         }

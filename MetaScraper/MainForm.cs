@@ -7,27 +7,39 @@ namespace MetaScraper
 {
     public partial class MainForm : Form
     {
-        int countries;
+        int country;
         const int totalCountries = 204;
         int downloadTicks;
 
         int shortSleep = 32;
 
+        bool closing;
+
         Phase phase;
         DownloadHandler downloadHandler = new DownloadHandler();
+
+        string StatusMessage = "";
 
         public MainForm()
         {
             InitializeComponent();
 
             chromiumWebBrowser.DownloadHandler = downloadHandler;
+            chromiumWebBrowser.StatusMessage += ChromiumWebBrowser_StatusMessage;
+        }
+
+        private void ChromiumWebBrowser_StatusMessage(object sender, CefSharp.StatusMessageEventArgs e)
+        {
+            StatusMessage = e.Value;
         }
 
         private void initTimer_Tick(object sender, EventArgs e)
         {
             initTimer.Enabled = false;
 
-            if (countries > totalCountries)
+            if (closing) return;
+
+            if (country > totalCountries)
             {
                 return;
             }
@@ -79,7 +91,6 @@ namespace MetaScraper
                 downloadHandler.Phase = 0;
                 DownloadReport();
             }
-            this.Text = $"MetaScraper - {countries}: {phase}";
 
             if (phase == Phase.Download30Days)
             {
@@ -131,50 +142,84 @@ namespace MetaScraper
             }
         }
 
+        public void SetTitle(string value)
+        {
+            if (InvokeRequired)
+            {
+                this.Invoke(new Action<string>(SetTitle), new object[] { value });
+                return;
+            }
+            this.Text = $"MetaScraper - {value}";
+        }
+
+        private void SendWait(string keys)
+        {
+            SetTitle($"{country}: {phase}: {keys} {StatusMessage}");
+            SendKeys.SendWait(keys);
+            Thread.Sleep(8);
+        }
+
         private void SelectCountry()
         {
+            phase = Phase.SelectedFirstCountry;
             Thread.Sleep(1024);
-            foreach (var i in Enumerable.Range(0, 21))
+            foreach (var i in Enumerable.Range(0, 23))
             {
-                SendKeys.SendWait("{TAB}");
+                SendWait("{TAB}");
                 Thread.Sleep(shortSleep);
             }
-            SendKeys.SendWait(" ");
-            SendKeys.SendWait("Albania");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{ENTER}");
+            SendWait(" ");
+            SendWait("Albania");
+            SendWait("{DOWN}");
+            SendWait("{ENTER}");
 
-            countries++;
+            country++;
 
             Thread.Sleep(2048);
-            phase = Phase.SelectedFirstCountry;
         }
 
         private void SelectAllDates()
         {
-            foreach (var i in Enumerable.Range(0, 30))
-            {
-                SendKeys.SendWait("+{TAB}");
-                Thread.Sleep(shortSleep);
-            }
-            SendKeys.SendWait(" ");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{ENTER}");
-            Thread.Sleep(shortSleep);
-
             phase = Phase.SelectedDates;
+
+            int reportStatus = 0;
+            while (true)
+            {
+                SendWait("+{TAB}");
+                Thread.Sleep(shortSleep);
+
+                if (StatusMessage.Contains("/report#"))
+                {
+                    reportStatus++;;
+                }
+                if (reportStatus == 3)
+                {
+                    SendWait("+{TAB}");
+                    Thread.Sleep(shortSleep);
+                    SendWait("+{TAB}");
+                    Thread.Sleep(shortSleep);
+                    break;
+                }
+                if (closing) return;
+            }
+
+            SendWait(" ");
+            Thread.Sleep(shortSleep);
+            SendWait("{DOWN}");
+            SendWait("{DOWN}");
+            SendWait("{DOWN}");
+            SendWait("{DOWN}");
+            SendWait("{ENTER}");
+            Thread.Sleep(shortSleep);
         }
 
         private void DownloadReport()
         {
-            SendKeys.SendWait("{TAB}");
+            SendWait("{TAB}");
             Thread.Sleep(shortSleep);
-            SendKeys.SendWait("{TAB}");
+            SendWait("{TAB}");
             Thread.Sleep(shortSleep);
-            SendKeys.SendWait("{ENTER}");
+            SendWait("{ENTER}");
             Thread.Sleep(shortSleep);
             downloadTicks = 0;
         }
@@ -183,15 +228,15 @@ namespace MetaScraper
         {
             foreach (var i in Enumerable.Range(0, 2))
             {
-                SendKeys.SendWait("+{TAB}");
+                SendWait("+{TAB}");
                 Thread.Sleep(shortSleep);
             }
-            SendKeys.SendWait(" ");
-            SendKeys.SendWait("{DOWN}");
+            SendWait(" ");
+            SendWait("{DOWN}");
             Thread.Sleep(shortSleep);
-            SendKeys.SendWait("{DOWN}");
+            SendWait("{DOWN}");
             Thread.Sleep(shortSleep);
-            SendKeys.SendWait("{ENTER}");
+            SendWait("{ENTER}");
             Thread.Sleep(1024);
 
             phase = Phase.Selected30Days;
@@ -199,23 +244,23 @@ namespace MetaScraper
 
         private void SelectNextCountry()
         {
-            foreach (var i in Enumerable.Range(0, 28))
+            foreach (var i in Enumerable.Range(0, 30))
             {
-                SendKeys.SendWait("{TAB}");
+                SendWait("{TAB}");
                 Thread.Sleep(shortSleep);
             }
-            SendKeys.SendWait(" ");
+            SendWait(" ");
             Thread.Sleep(1024);
 
-            countries++;
+            country++;
 
-            foreach (var i in Enumerable.Range(0, countries))
+            foreach (var i in Enumerable.Range(0, country))
             {
-                SendKeys.SendWait("{DOWN}");
+                SendWait("{DOWN}");
                 Thread.Sleep(shortSleep);
             }
 
-            SendKeys.SendWait("{ENTER}");
+            SendWait("{ENTER}");
 
             Thread.Sleep(4096);
             phase = Phase.SelectedNextCountry;
@@ -223,17 +268,33 @@ namespace MetaScraper
 
         private void SelectAllDatesAgain()
         {
-            foreach (var i in Enumerable.Range(0, 30))
+            int reportStatus = 0;
+            while (true)
             {
-                SendKeys.SendWait("+{TAB}");
+                SendWait("+{TAB}");
                 Thread.Sleep(shortSleep);
+
+                if (StatusMessage.Contains("/report#"))
+                {
+                    reportStatus++; ;
+                }
+                if (reportStatus == 3)
+                {
+                    SendWait("+{TAB}");
+                    Thread.Sleep(shortSleep);
+                    SendWait("+{TAB}");
+                    Thread.Sleep(shortSleep);
+                    break;
+                }
+                if (closing) return;
             }
-            SendKeys.SendWait(" ");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{DOWN}");
-            SendKeys.SendWait("{ENTER}");
+
+            SendWait(" ");
+            SendWait("{DOWN}");
+            SendWait("{DOWN}");
+            SendWait("{DOWN}");
+            SendWait("{DOWN}");
+            SendWait("{ENTER}");
             Thread.Sleep(1024);
 
             phase = Phase.SelectedDatesAgain;
@@ -243,7 +304,7 @@ namespace MetaScraper
         {
             foreach (var i in Enumerable.Range(0, 11))
             {
-                SendKeys.SendWait("+{TAB}");
+                SendWait("+{TAB}");
                 Thread.Sleep(shortSleep);
             }
             phase = Phase.Selected30Days;
@@ -253,10 +314,15 @@ namespace MetaScraper
         {
             foreach (var i in Enumerable.Range(0, 11))
             {
-                SendKeys.SendWait("+{TAB}");
+                SendWait("+{TAB}");
                 Thread.Sleep(shortSleep);
             }
             phase = Phase.SelectedDatesAgain;
+        }
+
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            closing = true;
         }
     }
 }

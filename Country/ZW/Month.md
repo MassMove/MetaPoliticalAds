@@ -1,5 +1,5 @@
 ## ZW - Last 30 Days
-**As at**: 2023-05-10
+**As at**: 2024-07-25
 
 **Total spent**: 17,401.00 USD
 
